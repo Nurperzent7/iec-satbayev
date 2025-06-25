@@ -1,0 +1,376 @@
+{
+  "navbarItemLabs": {
+    "en": "Labs",
+    "kk": "Лабораториялар",
+    "ru": "Лаборатории"
+  },
+  "navbarItemLabsSubmenu": {
+    "en": "All laboratories",
+    "kk": "Барлық лабораториялар",
+    "ru": "Все лаборатории"
+  },
+  "navbarItemAboutCentre": {
+    "en": "About the centre",
+    "kk": "Орталық туралы",
+    "ru": "О центре"
+  },
+  "navbarItemTeam": {
+    "en": "Team",
+    "kk": "Команда",
+    "ru": "Команда"
+  },
+  "navbarItemContacts": {
+    "en": "Contacts",
+    "kk": "Байланыс",
+    "ru": "Контакты"
+  },
+  "navbarItemPartners": {
+    "en": "Partners",
+    "kk": "Серіктестер",
+    "ru": "Партнёры"
+  },
+  "navbarItemNews": {
+    "en": "News",
+    "kk": "Жаңалықтар",
+    "ru": "Новости"
+  },
+  "navbarItemGallery": {
+    "en": "Gallery",
+    "kk": "Галерея",
+    "ru": "Галерея"
+  },
+  "navbarItemPublications": {
+    "en": "Publications",
+    "kk": "Ғылыми еңбектер",
+    "ru": "Научные труды"
+  },
+  "landingTitle": {
+    "en": "MMC Innovation Engineering Center",
+    "kk": "ТКМК инновациялық инжиниринг орталығы",
+    "ru": "Инновационный инжиниринговый центр ГМК"
+  },
+  "landingSubtitle": {
+    "en": [
+      "Single access to the centre's laboratories and their capabilities.",
+      "Equipment, research and staff - in an open format."
+    ],
+    "kk": [
+      "Центр лабораторияларының және олардың қабілеттеріне бірыңғай қолжетімділік.",
+      "Құрал-жабдықтар, зерттеу және персонал - ашық форматта."
+    ],
+    "ru": [
+      "Единый доступ к лабораториям центра и их возможностям.",
+      "Оборудование, исследования и кадры - в открытом формате."
+    ]
+  },
+  "seeLabsButton": {
+    "en": "See laboratories",
+    "kk": "Лабораторияларды көру",
+    "ru": "Посмотреть лаборатории"
+  },
+  "centreTeamButton": {
+    "en": "Centre team",
+    "kk": "Орталық командасы",
+    "ru": "Команда центра"
+  },
+  "aboutCentreHeading": {
+    "en": "About the centre",
+    "kk": "Орталық туралы",
+    "ru": "О центре"
+  },
+  "aboutCentreContent": {
+    "en": [
+      "Satbayev University Engineering Center is a platform for applied research and high-tech infrastructure, uniting 8 specialized laboratories in the field of mining, metallurgy, nanotechnology and environmental monitoring.",
+      "The centre was created to integrate science, education and production, providing access to unique equipment, expert support and joint projects for students, teachers and industrial partners.",
+      "We form a bridge between the university and industry, opening opportunities for innovations, experimental developments and technological implementation."
+    ],
+    "kk": [
+      "Сәтбаев Университеті Инжиниринг Центрі - бұл қолданбалы зерттеулер және жоғары технологиялық платформа. Платформа тау-кен ісі, металлургия, нанотехнологиялар және экологиялық монитоиринг салаларындағы 8 мамандырылған лабораторияларды біріктіреді.",
+      "Орталық ғылыми, білім беру және өндірісті біріктіру мақсатында құрылған. Орталық студенттер, оқытушылар мен өндірістік серіктестерді бірегей құрал-жабдықтар, сарапшы көмегімен қамтамасыз етеді.",
+      "Біз инновациялар, істәжірибелік зерттеулер және технологиялық жаңалықтардың қолданылуына жол ашып, университет пен өндірістің арасындағы байланысты қалыптастырамыз."
+    ],
+    "ru": [
+      "Инжиниринговый центр Satbayev University - это платформа прикладных исследований и высокотехнологичной инфраструктуры, объединяющая 8 специализированных лабораторий в области горного дела, металлургии, нанотехнологий и экологического мониторинга.",
+      "Центр создан с целью интеграции науки, образования и производства, предоставляя доступ к уникальному оборудованию, экспертной поддержке и совместным проектам для студентов, преподавателей и промышленных партнёров.",
+      "Мы формируем мост между университетом и промышленностью, открывая возможности для инноваций, опытных разработок и технологического внедрения."
+    ]
+  },
+  "ourLabsHeading": {
+    "en": "Our laboratories",
+    "kk": "Біздің лабораториялар",
+    "ru": "Наши лаборатории"
+  },
+  "publicationsHeading": {
+    "en": "Publications",
+    "kk": "Ғылыми еңбектер",
+    "ru": "Научные труды"
+  },
+  "publicationsTableHeading": {
+    "en": [
+      "No",
+      "Title",
+      "Authors",
+      "Publication type",
+      "Year",
+      "Biographical database",
+      "Link"
+    ],
+    "kk": [
+      "No",
+      "Атауы",
+      "Авторлар",
+      "Публикация түрі",
+      "Жыл",
+      "Биографикалық база",
+      "Сілтеме"
+    ],
+    "ru": [
+      "No",
+      "Наименование",
+      "Авторы",
+      "Тип публикации",
+      "Год",
+      "Биографические база данных",
+      "Ссылка"
+    ]
+  },
+  "publicationsShowAllButton": {
+    "en": "Show all publications",
+    "kk": "Барлық ғылыми еңбектерді көру",
+    "ru": "Показать все научные труды"
+  },
+  "footerAddressHeader": {
+    "en": "Address",
+    "kk": "Мекен-жайы",
+    "ru": "Адрес"
+  },
+  "footerAddressContentLines": {
+    "en": [
+      "22a Satbayev Street",
+      "050013, Almaty",
+      "Republic of Kazakhstan"
+    ],
+    "kk": [
+      "Сәтбаев көшесі, 22а",
+      "050013, Алматы",
+      "Қазақстан Республикасы"
+    ],
+    "ru": [
+      "ул. Сатпаева, 22а",
+      "050013, Алматы",
+      "Республика Казахстан"
+    ]
+  },
+  "footerAboutUniversityHeading": {
+    "en": "About the university",
+    "kk": "Университет туралы",
+    "ru": "Об университете"
+  },
+  "footerAboutUniversityContent": {
+    "en": [
+      "Satbayev University",
+      "Quality assurance guarantees",
+      "Contacts"
+    ],
+    "kk": [
+      "Сәтбаев Университеті",
+      "Білім сапасы",
+      "Байланыс"
+    ],
+    "ru": [
+      "Satbayev University",
+      "Гарантии качества",
+      "Контакты"
+    ]
+  },
+  "footerUsefulLinks": {
+    "en": "Useful links",
+    "kk": "Пайдалы сілтемелер",
+    "ru": "Полезные ссылки"
+  },
+  "footerUsefulLinksContent": {
+    "en": [
+      "Electronic admissions",
+      "Education portal"
+    ],
+    "kk": [
+      "Электрондық қабылдау комиссиясы",
+      "Білім порталы"
+    ],
+    "ru": [
+      "Электронная приёмная комиссия",
+      "Образовательный портал"
+    ]
+  },
+  "labPageProfessorHeading": {
+    "en": "Scientific supervisor",
+    "kk": "Ғылыми басшысы",
+    "ru": "Научный руководитель"
+  },
+  "labPageBenefitsHeading": {
+    "en": "Benefits",
+    "kk": "Артықшылықтар",
+    "ru": "Выгоды"
+  },
+  "labPageTasksHeading": {
+    "en": "Tasks",
+    "kk": "Мақсаттар",
+    "ru": "Задачи"
+  },
+  "labPageSolutionsHeading": {
+    "en": "Solutions",
+    "kk": "Шешімдер",
+    "ru": "Решения"
+  },
+  "teamPageHeading": {
+    "en": "Team",
+    "kk": "Команда",
+    "ru": "Команда"
+  },
+  "teamPageReportsTo": {
+    "en": "Reports to",
+    "kk": "Басшысы",
+    "ru": "Начальник"
+  },
+  "teamPageDirectReports": {
+    "en": "Direct reports",
+    "kk": "Тікелей бағыныштылар",
+    "ru": "Прямые подчиненные"
+  },
+  "orgChartTitle": {
+    "en": "Organizational chart",
+    "kk": "Организациялық схема",
+    "ru": "Организационная схема"
+  },
+  "teamPageAdvancedView": {
+    "en": "Advanced view",
+    "kk": "Күрделі көрініс",
+    "ru": "Расширенный вид"
+  },
+  "teamPageSimpleView": {
+    "en": "Simple view",
+    "kk": "Қарапайым көрініс",
+    "ru": "Простой вид"
+  },
+  "teamPageAllLabs": {
+    "en": "All laboratories",
+    "kk": "Барлық лабораториялар",
+    "ru": "Все лаборатории"
+  },
+  "aboutUsHeading": {
+    "en": "About us",
+    "kk": "Орталық туралы",
+    "ru": "О нас"
+  },
+  "aboutUsContent": {
+    "en": [
+      "The BR21881939 \"Development of resource-saving energy-generating technologies for the mining and metallurgical complex and creation of an innovative engineering center\" scientific and technical program is being implemented by the University within the framework of the program-targeted financing for 2023-2025 years based on the agreement signed with the Science Committee of the Republic of Kazakhstan (№ 446-ПЦФ-23-25 from 15.11.2023).",
+      "Purpose of the program: creation of an innovative engineering center for energy-generating technologies for the mining and metallurgical complex.",
+      "In accordance with the decision of the Board of Directors of JSC «Kazakhstan National Technical University named after K.I. Satpayev» dated 19.02.2025 (Protocol No. 01) and the order of the university dated 20.02.2025 No. 80-P/Ө, the Innovation Engineering Center of the Mining and Metallurgical Institute at 22 Satbayev Street, area of more than 600 m2 was created. It hosts the following 8 laboratories:",
+      {
+        "type": "ul",
+        "data": [
+          "- Laboratory of Digital and Computer Modeling of Ore Mining Technologies from Complex-Structured Blocks;",
+          "- Laboratory of Geomechanics and Geotechnologies;",
+          "- Laboratory of Chemical and Analytical Research;",
+          "- Laboratory for Ore Beneficiation Studies;",
+          "- Laboratory of Pyro- and Hydrometallurgical Research Methods;",
+          "- Laboratory of Metallurgical Processes, Thermal Engineering, and Powder Metallurgy;",
+          "- Laboratory of Nanotechnologies and Nanomaterials;",
+          "- Laboratory of Environmental Monitoring in the MMC."
+        ]
+      },
+      "Main areas of activity of the laboratories:",
+      {
+        "type": "ol",
+        "data": [
+          "1) Automated prediction of the internal structure of the collapse of a blasted complex-structure bench block during blasting; development of innovative ore mining technologies that minimize losses and dilution. Development of specialized software for automated design and calculation of mining operations to optimize the extraction of solid mineral resources;",
+          "2) Development of resource-saving geotechnology for mineral extraction in complex mining and geological conditions. The primary purpose is to determine the physical and mechanical properties of rocks using servo-hydraulic systems from GCTS (USA). By ensuring safe spatial orientation of underground mine workings, especially in zones of geological disturbances, and conducting open-pit mining under conditions of critical exposure of the rock massif, several domestic mining enterprises have safely expanded their mineral resource base, enabling the return on R&D investments to increase by tens to hundreds of thousands of times.",
+          "3) Mineralogical studies of ores and their processing products using modern equipment, conducting atomic absorption and mass spectrometric analyses, determination of ions and cations in productive solutions by ion chromatography. Performing elemental analysis of ores and processing products using a modern high-performance energy-dispersive X-ray fluorescence (EDXRF) spectrometer Rigaku NEX CG II, as well as investigating the textural-structural and morphological characteristics of ores.",
+          "4) Laboratory, pilot-scale laboratory, and semi-industrial testing of developed beneficiation technologies for mineral and technogenic raw materials using gravity, flotation, and magnetic beneficiation methods; providing services for the study of physical and mechanical properties of ore (specific gravity and bulk density; Protodyakonov strength; Bond indices). The results are used to optimize technologies at operating beneficiation plants and to develop beneficiation technologies for new deposits.",
+          "5) Pyro- and hydrometallurgical processing of ores, intermediate products, and waste from beneficiation and metallurgical productions using roasting, smelting, heap and agitated leaching, and sorption methods for solution processing. Development of efficient technologies for metallurgical enterprises with the issuance of technological regulations.",
+          "6) Research is conducted in the fields of extractive metallurgy, powder metallurgy, metallurgical heat engineering, and the production of special materials in the form of powders of non-ferrous metals, refractories, and specialty alloys. Thermal engineering calculations and material composition analyses are performed. Development of turnkey technology — from raw materials to finished metal powders and nanopowders.",
+          "7) Development of nanomaterial synthesis technologies (semiconductors, polymers, bio- and nanomaterials, composites, etc.). Creation of new materials based on industrial waste using nanotechnologies. Within the research framework, semiconductor materials, geopolymers, and nanocomposites are being developed for application in various industries. Special attention is given to the creation of environmentally oriented nanomaterials for water and air purification.",
+          "8) Monitoring studies of soil, water bodies, and atmospheric air; determination of hydro-physical and hydro-chemical characteristics of surface, underground, and wastewater; sampling of water and soil for laboratory research; development of technologies for the treatment of domestic and industrial wastewater for mining and metallurgical enterprises; development of project documentation for obtaining comprehensive environmental permits for mining and metallurgical complex enterprises; environmental and economic support of projects developed by the engineering center of the mining and metallurgical complex (MMC)."
+        ]
+      },
+      "Currently, the procedure for submitting applications for accreditation of laboratories is underway, which will ensure a full cycle of quality assessment of mineral and technogenic raw materials - from extraction to the production of finished products."
+    ],
+    "kk": [
+      "Университет BR21881939 «Тау-кен-металлургиялық кешен үшін ресурс үнемдейтін энергия түрлендіретін технологиялар әзірлеу және инновациялық инжиниринг орталығын құру» ғылыми-техникалық бағдарламасын, ҚР ҒжЖБМ Ғылым комитетімен жасалған (15.11.2023-да № 446-ПЦФ-23-25) шарт бойынша 2023-2025 жылдарына бағдарламалы-мақсатты қаржыландыру шеңберінде орындалуда.",
+      "Бағдарламаның мақсаты: Тау-кен-металлургиялық кешен үшін ресурс үнемдейтін энергия түрлендіретін технологиялар әзірлеу және инновациялық инжиниринг орталығын құру.",
+      "«Қ.И.Сәтбаев атындағы Қазақ ұлттық техникалық зерттеу университеті» КеАҚ Директорлар кеңесінің 19.02.2025-нан (протокол №01) шешімі мен университетінің 20.02.2025-та № 80-П/Ө жарлығы бойынша, Сәтбаев көшесі, 22-де тау-кен-металлургиялық институтының 600 м2 алаңда Инновациялық инжиниринг орталығы құрылды. Оның құрамына 8 лаборатория кіреді:",
+      {
+        "type": "ul",
+        "data": [
+          "- Түрлі қурылыс блоктардан кен шығару технологияларды сандық және компьютер модельдеу лабораториясы",
+          "- Геомеханика және геотехнологиялар лабораториясы",
+          "- Химиялық анализ зерттеулер лабораториясы",
+          "- Кендерді байытылғыштыққа зерттеу лабораториясы",
+          "- Пиро-гидрометаллургиялық зерттеулер лабораториясы",
+          "- Металлургиялық процестер мен ұнтақтық металлургия лабораториясы",
+          "- Нанотехнологиялар мен наноматериалдар лабораториясы",
+          "- Экологиялық мониторинг лабораториясы"
+        ]
+      },
+      "Лабораториялардың негізгі бағыттары:",
+      {
+        "type": "ol",
+        "data": [
+          "1) Жарылған күрделі-құрылымды кертпеш, үйілімнің ішкі құрылысының аутоматталған болжамдау. Кендерді шығынсыз және құнарсыздандырусыз шығаруға арналған инновациялық кен шығару технологияларын әзірлеу. Қатты пайдалы қазбалар шығаруын оңтайландыру үшін тау-кен жұмыстарды есептеу және атоматтандырылған жобалау үшін бағдарламалық жасақтама әзірлеу",
+          "2) Күрделі тау-кен-геологиялық жағдайда пайдалы қазбаларды шығаруыныә ресурстарды үнемдейтін технологиялар әзірлеу. Басты мақсат – GCTS (АҚШ) компаниясының сервогидравликалық системаларың пайдаланып кендерінің физик-механикалық сипаттарың анықтау. Жерасты тау-кен қазындылар кеңістігінде, әсіресе геологиялық бұзылым аймақта, қауіпсіз бағдарлау, және тау сілем ашылуының шектік күйінде кен орындарының ашық игеру жұмыстарын өткізу нәтижесінде бірнеше отандық тау-кен өндірістерде минерал-шикізатты базасының арттауы өткізілді. Соның нәтижесінде ғылыми зерттеу жұмыстарына шығындары он-жүз мыңдаған мәртеге азайды",
+          "3) Заманауи құрал-жабдықтарын қолданып кендерді және олардың өндеу өнімдерің минералогиялық зерттеулер, атом-абсорбциялық және масс-спектрлік талдауын өткізу, ионды хроматография әдіс қолданып өнімді ерітінділерде ионд және катиондарды анықтау. Заманауи жоғары өндірмелі энергодисперсиялық рентген-флуоресцентті (EDXRF) Rigaku NEX CG II спектрометрын қолдап кендердің және олардын өнімдерің элементты талдауын өткізу. Сонымең қатар, кендердің текстуралық-құрылымдық және морфологиялық қасиеттерді талдау",
+          "4) Минералдық және техногендік шикізатты байытудың әзірленген технологияларын гравитациялық, флотациялық, магниттік байыту әдістерімен лабораториялық, ірі лабораториялық және жартылай өндірістік сынаулар жүргізу, кендердің физик-механикалық қасиеттерін зерттеу бойынша қызметтер көрсету (меншікті салмақ және көлемдік салмақ; Протодьяконов бойынша беріктік; Бонд индекстері). Нәтижелер жұмыс істеп тұрған байыту фабрикаларындағы технологияларды оңтайландыру және жаңа кен орындарын байыту технологияларын әзірлеу үшін қолданылады;",
+          "5) Кендер, өнеркәсіптік өнімдер және байыту мен металлургиялық өндіріс қалдықтарын күйдіру, қорыту, үйінділі және агитациялық сілтісіздендіру, ерітінділерді сорбциялық өңдеу әдістерін қолдана отырып пиро- және гидрометаллургиялық өңдеу. Технологиялық регламенттер беру арқылы металлургиялық кәсіпорындар үшін тиімді технологиялар әзірлеу.",
+          "6) Экстракциялық металлургия, ұнтақ металлургиясы, металлургиялық жылутехника саласында зерттеулер жүргізу және түсті металдар ұнтақтары, отқа төзімді материалдар және арнайы мақсаттағы қорытпалар түрінде арнайы материалдар алу, жылутехникалық есептеулер мен материалдар құрамын талдау жүргізу. \"Кілтпен тапсыру\" технологиясын әзірлеу — шикізаттан дайын металл ұнтағы мен наноұнтақтарға дейін.",
+          "7) Наноматериалдар синтезі технологияларын әзірлеу (жартылай өткізгіштер, полимерлер, био- және наноматериалдар, композиттер және т.б.). Нанотехнологияларды қолдана отырып, өндірістік қалдықтар негізінде жаңа материалдар жасау. Зерттеулер шеңберінде әртүрлі салаларда қолдануға арналған жартылай өткізгіш материалдар, геополимерлер және нанокомпозиттер әзірленуде. Суды және ауаны тазартуға арналған экологиялық бағытталған наноматериалдарды жасауға ерекше назар аударылады.",
+          "8) Топырақ, су нысандары, атмосфералық ауаның мониторингтік зерттеулері; беткі, жерасты және ағынды сулардың гидрофизикалық, гидрохимиялық сипаттамаларын анықтау; лабораториялық зерттеулер үшін су, топырақ үлгілерін алу; ГМК кәсіпорындары үшін тұрмыстық-шаруашылық және өндірістік ағынды суларды тазарту технологиясын әзірлеу; Тау-кен металлургиялық кешен кәсіпорындары үшін кешенді экологиялық рұқсат алу жобаларын әзірлеу; ГМК инжиниринг орталығының әзірленетін жобаларының эколого-экономикалық сүйемелдеуі."
+        ]
+      },
+      "Қазіргі уақытта лабораториялардың аккредитациясына өтінім процедурасы жүріп жатыр. Бұл шығарудан бастап дайын өнімін алуға дейін минералды және техногендік шикізатының сапасын бағалауының толық циклін қамтамасыз етеді."
+    ],
+    "ru": [
+      "Научно-техническая программа BR21881939 «Разработка ресурсосберегающих энергогенерирующих технологий для горно-металлургического комплекса и создание инновационного инжинирингового центра» реализуется Университетом в рамках программно-целевого финансирования на 2023-2025 годы на основании договора, заключенного с Комитетом науки МНиВО РК (№ 446-ПЦФ-23-25 от 15.11.2023). ",
+      "Цель программы: создание инновационного инжинирингового центра энергогенерирующих технологий для ГМК.",
+      "В соответствии с решением Совета директоров НАО «Казахский национальный исследовательский технический университет имени К. И. Сатпаева» от 19.02.2025 года (протокол №01) и приказа университета от 20.02.2025 года № 80-П/Ө на базе Горно- металлургического института по ул. Сатпаева 22 на площади более 600 м2 создан Инновационный инжиниринговый центр ГМК, в состав которого входят 8 лабораторий:",
+      {
+        "type": "ul",
+        "data": [
+          "- Лаборатория цифрового, компьютерного моделирования технологий добычи руд из сложно-структурных блоков;",
+          "- Лаборатория геомеханики и геотехнологий;",
+          "- Лаборатория химико-аналитических исследований;",
+          "- Лаборатория исследования руд на обогатимость;",
+          "- Лаборатория пиро- и гидрометаллургических методов исследования;",
+          "- Лаборатория металлургических процессов, теплотехники и порошковой металлургии;",
+          "- Лаборатория нанотехнологий и наноматериалов;",
+          "- Лаборатория экологического мониторинга в ГМК."
+        ]
+      },
+      "Основные направления деятельности лабораторий:",
+      {
+        "type": "ol",
+        "data": [
+          "1) Автоматизированное прогнозирование внутренней структуры развала, взорванного сложноструктурного блока уступа при взрыве, разработка инновационных технологий добычи руд без потерь и разубоживания. Разработка специализированного программного обеспечения для автоматизированного проектирования и расчёта горных работ для рационализации добычи твёрдых полезных ископаемых;",
+          "2) Разработка ресурсосберегающей геотехнологии добычи полезных ископаемых в сложных горно-геологических условиях. Основное назначение – определение физико-механических свойств горных пород на сервогидравлических системах компании GCTS (США). За счет безопасной ориентации в пространстве подземных горных выработок, особенно в зоне геологических нарушений, и ведения открытой разработки месторождений в условиях предельного состояния обнажений горного массива на ряде отечественных горных предприятиях достигнуто безопасное увеличение минерально-сырьевой базы, что позволило окупить затраты на НИОКР в десятки-сотни тысяч раз.",
+          "3) Минералогические исследования руд и продуктов их переработки на современном оборудовании, проведение атомно-абсорбционного и масс-спектрального анализов, определение ионов и катионов в продуктивных растворах методом ионной хроматографии. Проведение элементного анализа руд и продуктов переработки с помощью современного высокопроизводительного энергодисперсионного рентгенофлуоресцентного (EDXRF) спектрометра Rigaku NEX CG II, а также исследование текстурно-структурных, морфологических характеристик руд;",
+          "4) Проведение лабораторных, укрупненно-лабораторных и полупромышленных испытаний разработанных технологий обогащения минерального и техногенного сырья гравитационными, флотационными, магнитными методами обогащения, оказание услуг по исследованию физико-механических свойств руды (удельный вес и насыпная масса; крепость по Протодьяконову; индексы Бонда). Результаты используются для оптимизации технологий на действующих обогатительных фабриках и разработки технологий обогащения новых месторождений;",
+          "5) Пиро- и гидрометаллургическая переработка руд, промпродуктов и отходов обогатительного и металлургического производств с применением обжига, плавки, кучного и агитационного выщелачивания, сорбционного способа переработки растворов. Разработка эффективных технологий для металлургических предприятий с выдачей технологических регламентов.",
+          "6) Проведение исследований в области экстрактивной металлургии, порошковой металлургии, металлургической теплотехники и получения специальных материалов в виде порошков цветных металлов, огнеупоров и сплавов специального назначения, проводятся  теплотехнические расчёты и анализ состава материалов. Разработка технологии «под ключ» — от сырья до готового металлопорошка и нанопорошков.",
+          "7) Разработка технологий синтеза наноматериалов (полупроводники, полимеры, био- и наноматериалы, композиты и т.д). Создание новых материалов на основе промышленных отходов с применением нанотехнологий. В рамках исследований разрабатываются полупроводниковые материалы, геополимеры и нанокомпозиты, предназначенные для применения в различных отраслях. Особое внимание уделяется созданию экологически ориентированных наноматериалов для очистки воды и воздуха.",
+          "8) Мониторинговые исследования почвы, водных объектов, атмосферного воздуха; определение гидрофизических, гидрохимических характеристик поверхностных, подземных и сточных вод; отбор проб воды, почвы для лабораторных исследований; Разработка технологии по очистке хозяйственно-бытовых и производственных сточных вод для предприятий ГМК; Разработка проектов для получения комплексного экологического разрешения для предприятий горно-металлургического комплекса; Эколого-экономическое сопровождение, разрабатываемых проектов инжинирингового центра ГМК."
+        ]
+      },
+      "В настоящее время ведётся процедура подачи заявок на аккредитацию лабораторий, что позволит обеспечить полный цикл оценки качества минерального и техногенного сырья — от добычи до получения готовой продукции."
+    ]
+  },
+  "publicationsSeeMoreButton": {
+    "en": "See more",
+    "kk": "Көбірек көру",
+    "ru": "Загрузить ещё"
+  },
+  "nationalPublicationText": {
+    "en": "National",
+    "kk": "Қазақстан",
+    "ru": "Казахстан"
+  }
+}

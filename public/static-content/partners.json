@@ -1,0 +1,160 @@
+{
+  "partners": [
+    {
+      "name": {
+        "en": "«Казахалтын» LTD",
+        "kk": "«Казақалтын» ЖШС",
+        "ru": "ТОО «Казахалтын»"
+      },
+      "logoPath": "/images/partners/kazakhaltyn.jpg",
+      "url": "https://altynalmas.kz/",
+      "location": {}
+    },
+    {
+      "name": {
+        "en": "«Корпорация Казахмыс» LTD",
+        "kk": "«Корпорация Казақмыс» ЖШС",
+        "ru": "ТОО «Корпорация Казахмыс»"
+      },
+      "logoPath": "/images/partners/kazakhmys.jpeg",
+      "url": "https://www.kazakhmys.kz/en/",
+      "location": {}
+    },
+    {
+      "name": {
+        "en": "«НИИЦ ERG» LTD",
+        "kk": "«НИИЦ ERG» ЖШС",
+        "ru": "ТОО «НИИЦ ERG»"
+      },
+      "logoPath": "/images/partners/erg.jpeg",
+      "url": "https://erg.kz/",
+      "location": {}
+    },
+    {
+      "name": {
+        "en": "«Delma» LTD",
+        "kk": "«Delma» ЖШС",
+        "ru": "ТОО «Delma»"
+      },
+      "logoPath": "/images/partners/delma.png",
+      "location": {}
+    },
+    {
+      "name": {
+        "en": "«Новатест Казахстан» LTD",
+        "kk": "«Новатест Қазақстан» ЖШС",
+        "ru": "ТОО «Новатест Казахстан»"
+      },
+      "logoPath": "/images/partners/novatest.png",
+      "url": "https://novatest.kz/",
+      "location": {}
+    },
+    {
+      "name": {
+        "en": "«Фирма «Балауса» LTD",
+        "kk": "«Фирма «Балауса» ЖШС",
+        "ru": "ТОО «Фирма «Балауса»"
+      },
+      "url": "https://www.ferro-alloy.com/esia/english/",
+      "location": {}
+    },
+    {
+      "name": {
+        "en": "«Bes Saiman Group» LTD",
+        "kk": "«Bes Saiman Group» ЖШС",
+        "ru": "ТОО «Bes Saiman Group»"
+      },
+      "location": {}
+    },
+    {
+      "name": {
+        "en": "«Проектный институт «OPTIMUM» LTD",
+        "kk": "«Проектный институт «OPTIMUM» ЖШС",
+        "ru": "ТОО «Проектный институт «OPTIMUM»"
+      },
+      "logoPath": "/images/partners/optimum.jpg",
+      "url": "https://opm.kz/",
+      "location": {}
+    },
+    {
+      "name": {
+        "en": "«Ангстрем» LTD",
+        "kk": "«Ангстрем» ЖШС",
+        "ru": "ТОО «Ангстрем»"
+      },
+      "logoPath": "/images/partners/angstrem.png",
+      "url": "https://angstrem-esg.com/",
+      "location": {}
+    },
+    {
+      "name": {
+        "en": "ANAMAD Ltd",
+        "kk": "ANAMAD Ltd",
+        "ru": "ANAMAD Ltd"
+      },
+      "location": {
+        "en": "Brighton, United Kingdom",
+        "kk": "Брайтон, Ұлыбритания",
+        "ru": "Брайтон, Великобритания"
+      },
+      "logoPath": "/images/partners/anamad.png",
+      "url": "https://anamad.co.uk/"
+    }
+  ],
+  "universityPartners": [
+    {
+      "name": {
+        "en": "University of Glasgow",
+        "kk": "University of Glasgow",
+        "ru": "University of Glasgow"
+      },
+      "location": {
+        "en": "Glasgow, United Kingdom",
+        "kk": "Глазгоу, Ұлыбритания",
+        "ru": "Глазгоу, Великобритания"
+      },
+      "logoPath": "/images/partners/university-of-glasgow.jpg",
+      "url": "https://www.gla.ac.uk/"
+    },
+    {
+      "name": {
+        "en": "Sunway University",
+        "kk": "Sunway University",
+        "ru": "Sunway University"
+      },
+      "location": {
+        "en": "Malaysia",
+        "kk": "Малайзия",
+        "ru": "Малайзия"
+      },
+      "logoPath": "/images/partners/sunway-university.jpeg",
+      "url": "https://www.sunway.edu.my/"
+    },
+    {
+      "name": {
+        "en": "East China University of Science and Technology",
+        "kk": "East China University of Science and Technology",
+        "ru": "East China University of Science and Technology"
+      },
+      "location": {
+        "en": "Nanchang, China",
+        "kk": "Наньчан, Қытвй",
+        "ru": "г. Наньчан, КНР"
+      },
+      "logoPath": "/images/partners/ecust.png",
+      "url": "https://www.ecust.edu.cn/"
+    },
+    {
+      "name": {
+        "en": "Academy of Environmental Sciences",
+        "kk": "Қоршаған орта ғылымдар академиясы",
+        "ru": "Академия наук об окружающей среде"
+      },
+      "location": {
+        "en": "Beijing, China",
+        "kk": "Бейжін, Қытай",
+        "ru": "г. Пекин, КНР"
+      }
+    }
+  ]
+}

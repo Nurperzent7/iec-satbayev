@@ -1,0 +1,1073 @@
+[
+  [
+    {
+      "id": "begentayev-m-m",
+      "name": {
+        "en": "Бегентаев Мейрам Мухаметрахимович, Dr. habitus of Science in Economy.",
+        "kk": "Бегентаев Мейрам Мухаметрахимович, э.ғ.д.",
+        "ru": "Бегентаев Мейрам Мухаметрахимович, д.э.н."
+      },
+      "imagePath": "/images/team/begentayev-m-m.png",
+      "reportsTo": null,
+      "level": 0,
+      "position": {
+        "en": "Chief Program Director",
+        "kk": "Бағдарлама басшысы",
+        "ru": "Руководитель Программы"
+      },
+      "hIndex": 4,
+      "socialLinks": [
+        {
+          "network": "LinkedIn",
+          "url": "https://www.linkedin.com/in/begentayev"
+        },
+        {
+          "network": "Facebook",
+          "url": "https://www.facebook.com/mejram.begentaev"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "rysbekov-k-b",
+      "name": {
+        "en": "Рысбеков Канай Бакытович, Dr. of Science in Engineering, Professor",
+        "kk": "Рысбеков Канай Бакытович, т.ғ.к., профессор",
+        "ru": "Рысбеков Канай Бакытович, к.т.н., профессор"
+      },
+      "imagePath": "/images/team/rysbekov-k-b.jpg",
+      "reportsTo": "begentayev-m-m",
+      "level": 1,
+      "position": {
+        "en": "Chief Scientific Officer",
+        "kk": "Бағдарлама ғылыми басшысы",
+        "ru": "Научный руководитель Программы"
+      },
+      "hIndex": 17,
+      "socialLinks": [
+        {
+          "network": "LinkedIn",
+          "url": "https://www.linkedin.com/in/kanay-rysbekov-71350a19a"
+        },
+        {
+          "network": "Facebook",
+          "url": "https://www.facebook.com/kanay.rysbekov"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "rakishev-b-r",
+      "name": {
+        "en": "Ракишев Баян Ракишевич, Dr. habitus of Science in Engineering, Professor",
+        "kk": "Ракишев Баян Ракишевич, т.ғ.д., профессор",
+        "ru": "Ракишев Баян Ракишевич, д.т.н., профессор"
+      },
+      "imagePath": "/images/team/rakishev-b-r.png",
+      "reportsTo": "rysbekov-k-b",
+      "level": 2,
+      "position": {
+        "en": "Chief Researcher of Task 1",
+        "kk": "1-ші тапсырма ғылыми басшысы",
+        "ru": "Научный руководитель задачи 1"
+      },
+      "hIndex": 8,
+      "labId": "digital-computer-modelling-ore-extraction-technologies",
+      "socialLinks": [
+        {
+          "network": "LinkedIn",
+          "url": "https://www.linkedin.com/in/bayan-rakishev-0309042b4"
+        }
+      ]
+    },
+    {
+      "id": "moldabayev-s-k",
+      "name": {
+        "en": "Молдабаев Серик Курашович, Dr. habitus of Science in Engineering, Professor",
+        "kk": "Молдабаев Серик Курашович, т.ғ.д., профессор",
+        "ru": "Молдабаев Серик Курашович, д.т.н., профессор"
+      },
+      "imagePath": "/images/team/moldabayev-s-k.png",
+      "reportsTo": "rysbekov-k-b",
+      "level": 2,
+      "position": {
+        "en": "Chief Researcher of Task 2",
+        "kk": "2-ші тапсырма ғылыми басшысы",
+        "ru": "Научный руководитель задачи 2"
+      },
+      "hIndex": 11,
+      "labId": "geomechanics-and-geotechnology",
+      "socialLinks": [
+        {
+          "network": "LinkedIn",
+          "url": "https://www.linkedin.com/in/serik-moldabayev-2a90552b2/"
+        },
+        {
+          "network": "Facebook",
+          "url": "https://www.facebook.com/moldabaev.s.k/"
+        }
+      ]
+    },
+    {
+      "id": "kubekova-sh-n",
+      "name": {
+        "en": "Кубекова Шолан Накишбековна, Dr. of Science in Chemistry, Docent (Senior Lecturer)",
+        "kk": "Кубекова Шолан Накишбековна, х.ғ.к., доцент",
+        "ru": "Кубекова Шолан Накишбековна, к.х.н., доцент"
+      },
+      "imagePath": "/images/team/kubekova-sh-n.png",
+      "reportsTo": "rysbekov-k-b",
+      "level": 2,
+      "position": {
+        "en": "Chief Researcher of Task 3",
+        "kk": "3-ші тапсырма ғылыми басшысы",
+        "ru": "Научный руководитель задачи 3"
+      },
+      "hIndex": 7,
+      "labId": "chemical-analytic-surveys",
+      "socialLinks": [
+        {
+          "network": "LinkedIn",
+          "url": "https://www.linkedin.com/in/sholpan-kubekova-a98a222b1/"
+        },
+        {
+          "network": "Facebook",
+          "url": "https://www.facebook.com/profile.php?id=100078668855639"
+        }
+      ]
+    },
+    {
+      "id": "barmenshinova-m-b",
+      "name": {
+        "en": "Барменшинова Мадина Богембаевна, Dr. of Science in Engineering, Associate Professor",
+        "kk": "Барменшинова Мадина Богембаевна, т.ғ.к., ассоцацияланған профессор",
+        "ru": "Барменшинова Мадина Богембаевна, к.т.н., ассоциированный профессор"
+      },
+      "imagePath": "/images/team/barmenshinova-m-b.png",
+      "reportsTo": "rysbekov-k-b",
+      "level": 2,
+      "position": {
+        "en": "Program Executive, Chief Researcher of Task 4",
+        "kk": "Бағдарлама жауапты атқарушы. 4-ші тапсырма ғылыми басшысы",
+        "ru": "Ответственный исполнитель Программы, Научный руководитель задачи 4"
+      },
+      "hIndex": 10,
+      "labId": "researching-ores-preparation-characteristics",
+      "socialLinks": [
+        {
+          "network": "LinkedIn",
+          "url": "https://www.linkedin.com/in/madina-barmenshinova-2970816a/"
+        },
+        {
+          "network": "Facebook",
+          "url": "https://www.facebook.com/bmadinab"
+        }
+      ]
+    },
+    {
+      "id": "tazhiyev-y-b",
+      "name": {
+        "en": "Тажиев Елеусиз Болатович, Ph.D.",
+        "kk": "Тажиев Елеусиз Болатович, доктор Ph.D.",
+        "ru": "Тажиев Елеусиз Болатович, доктор Ph.D."
+      },
+      "imagePath": "/images/team/tazhiyev-y-b.png",
+      "reportsTo": "rysbekov-k-b",
+      "level": 2,
+      "position": {
+        "en": "Chief Researcher of Task 5",
+        "kk": "5-ші тапсырма ғылыми басшысы",
+        "ru": "Научный руководитель задачи 5"
+      },
+      "hIndex": 4,
+      "labId": "pyro-hydrometallurgical-research-methods",
+      "socialLinks": [
+        {
+          "network": "LinkedIn",
+          "url": "https://www.linkedin.com/in/yeleussiz-tazhiyev-66b8142b1/"
+        },
+        {
+          "network": "Facebook",
+          "url": "https://www.facebook.com/profile.php?id=100049510381235"
+        }
+      ]
+    },
+    {
+      "id": "chepushtanova-t-a",
+      "name": {
+        "en": "Чепуштанова Татьяна Александровна, Dr. of Science in Engineering, Ph.D.",
+        "kk": "Чепуштанова Татьяна Александровна, т.ғ.к., доктор Ph.D.",
+        "ru": "Чепуштанова Татьяна Александровна, к.т.н., доктор Ph.D."
+      },
+      "imagePath": "/images/team/chepushtanova-t-a.png",
+      "reportsTo": "rysbekov-k-b",
+      "level": 2,
+      "position": {
+        "en": "Chief Researcher of Task 6",
+        "kk": "6-ші тапсырма ғылыми басшысы",
+        "ru": "Научный руководитель задачи 6"
+      },
+      "hIndex": 4,
+      "labId": "metallurgical-processes-and-powder-metallurgy",
+      "socialLinks": [
+        {
+          "network": "LinkedIn",
+          "url": "https://www.linkedin.com/in/tatyana-chepushtanova-a0a01222b/"
+        },
+        {
+          "network": "Facebook",
+          "url": "https://www.facebook.com/profile.php?id=100002787764450"
+        }
+      ]
+    },
+    {
+      "id": "azat-s",
+      "name": {
+        "en": "Азат Сейтхан, Ph.D., Professor",
+        "kk": "Азат Сейтхан, доктор Ph.D., профессор",
+        "ru": "Азат Сейтхан, доктор Ph.D., профессор"
+      },
+      "imagePath": "/images/team/azat-s.png",
+      "reportsTo": "rysbekov-k-b",
+      "level": 2,
+      "position": {
+        "en": "Chief Researcher of Task 7",
+        "kk": "7-ші тапсырма ғылыми басшысы",
+        "ru": "Научный руководитель задачи 7"
+      },
+      "hIndex": 18,
+      "labId": "nanotechnology-and-nanomaterials",
+      "socialLinks": [
+        {
+          "network": "LinkedIn",
+          "url": "https://kz.linkedin.com/in/seitkhan-azat-651411122"
+        },
+        {
+          "network": "Facebook",
+          "url": "https://facebook.com/Seitkhan.Azat/"
+        }
+      ]
+    },
+    {
+      "id": "kezembayeva-g-b",
+      "name": {
+        "en": "Кезембаева Гульмира Булатовна, DBA",
+        "kk": "Кезембаева Гульмира Булатовна, DBA",
+        "ru": "Кезембаева Гульмира Булатовна, DBA"
+      },
+      "imagePath": "/images/team/kezembayeva-g-b.png",
+      "reportsTo": "rysbekov-k-b",
+      "level": 2,
+      "position": {
+        "en": "Chief Researcher of Task 8",
+        "kk": "8-ші тапсырма ғылыми басшысы",
+        "ru": "Научный руководитель задачи 8"
+      },
+      "hIndex": 1,
+      "labId": "ecological-monitoring",
+      "socialLinks": [
+        {
+          "network": "LinkedIn",
+          "url": "https://www.linkedin.com/in/гульмира-кезембаева-94458475/"
+        },
+        {
+          "network": "Facebook",
+          "url": "https://www.facebook.com/profile.php?id=100005815363727"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "sdvizhkova-ye-a",
+      "name": {
+        "en": "Сдвижкова Елена Александровна, Dr. habitus of Science in Engineering, Professor",
+        "kk": "Сдвижкова Елена Александровна, т.ғ.д., профессор",
+        "ru": "Сдвижкова Елена Александровна, д.т.н., профессор"
+      },
+      "imagePath": "/images/team/sdvizhkova-ye-a.png",
+      "reportsTo": "moldabayev-s-k",
+      "level": 3,
+      "position": {
+        "en": "Chief Research Officer",
+        "kk": "Басты ғылыми қызметкер",
+        "ru": "Главный научный сотрудник"
+      },
+      "hIndex": 11,
+      "labId": "geomechanics-and-geotechnology"
+    },
+    {
+      "id": "kapralova-v-i",
+      "name": {
+        "en": "Капралова Виктория Игоревна, Dr. of Science in Chemistry., Docent (Senior Lecturer)",
+        "kk": "Капралова Виктория Игоревна, х.ғ.к., доцент",
+        "ru": "Капралова Виктория Игоревна, к.х.н., доцент"
+      },
+      "imagePath": "/images/team/kapralova-v-i.png",
+      "reportsTo": "kubekova-sh-n",
+      "level": 3,
+      "position": {
+        "en": "Chief Research Officer",
+        "kk": "Басты ғылыми қызметкер",
+        "ru": "Главный научный сотрудник"
+      },
+      "hIndex": 11,
+      "labId": "chemical-analytic-surveys"
+    },
+    {
+      "id": "telkov-sh-a",
+      "name": {
+        "en": "Телков Шамиль Абдулаевич, Dr. of Science in Engineering, Docent (Senior Lecturer)",
+        "kk": "Телков Шамиль Абдулаевич, т.ғ.к., доцент",
+        "ru": "Телков Шамиль Абдулаевич, к.т.н., доцент"
+      },
+      "imagePath": "/images/team/telkov-sh-a.png",
+      "reportsTo": "barmenshinova-m-b",
+      "level": 3,
+      "position": {
+        "en": "Chief Research Officer",
+        "kk": "Басты ғылыми қызметкер",
+        "ru": "Главный научный сотрудник"
+      },
+      "hIndex": 3,
+      "labId": "researching-ores-preparation-characteristics"
+    },
+    {
+      "id": "baimbetov-b-s",
+      "name": {
+        "en": "Баимбетов Болотпай Сагынович, Docent (Senior Lecturer)",
+        "kk": "Баимбетов Болотпай Сагынович, доцент",
+        "ru": "Баимбетов Болотпай Сагынович, доцент"
+      },
+      "imagePath": "/images/team/baimbetov-b-s.png",
+      "reportsTo": "tazhiyev-y-b",
+      "level": 3,
+      "position": {
+        "en": "Chief Research Officer",
+        "kk": "Басты ғылыми қызметкер",
+        "ru": "Главный научный сотрудник"
+      },
+      "hIndex": 3,
+      "labId": "pyro-hydrometallurgical-research-methods"
+    },
+    {
+      "id": "brajendra-m",
+      "name": {
+        "en": "Brajendra Mishra, Ph.D., Professor, Director, Metal Processing Institute, Worcester Polytechnic Institute",
+        "kk": "Бражендра Мишра, доктор Ph.D., профессор, Металдар қайта өндеу инсититуты директоры, Вустер политехникалық институт (WPI)",
+        "ru": "Бражендра Мишра, доктор Ph.D., профессор, Директор Института переработки металлов, Вустерский политехнический институт (WPI)"
+      },
+      "imagePath": "/images/team/brajendra-m.png",
+      "reportsTo": "chepushtanova-t-a",
+      "level": 3,
+      "position": {
+        "en": "Chief Research Officer",
+        "kk": "Басты ғылыми қызметкер",
+        "ru": "Главный научный сотрудник"
+      },
+      "labId": "metallurgical-processes-and-powder-metallurgy"
+    },
+    {
+      "id": "abdiyev-k-zh",
+      "name": {
+        "en": "Абдиев Калдыбек Жамшаевич, Dr. habitus of Science in Chemistry., Professor",
+        "kk": "Абдиев Калдыбек Жамшаевич, х.ғ.д., профессор",
+        "ru": "Абдиев Калдыбек Жамшаевич, д.х.н., профессор"
+      },
+      "imagePath": "/images/team/abdiyev-k-zh.png",
+      "reportsTo": "kezembayeva-g-b",
+      "level": 3,
+      "position": {
+        "en": "Chief Research Officer",
+        "kk": "Басты ғылыми қызметкер",
+        "ru": "Главный научный сотрудник"
+      },
+      "hIndex": 10,
+      "labId": "ecological-monitoring"
+    }
+  ],
+  [
+    {
+      "id": "orynbay-a-a",
+      "name": {
+        "en": "Орынбай Асфандияр Айтказыулы, Ph.D.",
+        "kk": "Орынбай Асфандияр Айтказыулы, доктор Ph.D.",
+        "ru": "Орынбай Асфандияр Айтказыулы, доктор Ph.D."
+      },
+      "imagePath": "/images/team/orynbay-a-a.png",
+      "reportsTo": "rakishev-b-r",
+      "level": 4,
+      "position": {
+        "en": "Lead Research Officer",
+        "kk": "Жетекші ғылыми қызметкер",
+        "ru": "Ведущий научный сотрудник"
+      },
+      "hIndex": 2,
+      "labId": "digital-computer-modelling-ore-extraction-technologies"
+    },
+    {
+      "id": "babets-d-v",
+      "name": {
+        "en": "Бабец Дмитрий Владимирович, Dr. habitus of Science in Engineering. Associate Professor",
+        "kk": "Бабец Дмитрий Владимирович, т.ғ.д. ассоцацияланған профессор",
+        "ru": "Бабец Дмитрий Владимирович, д.т.н. ассоциированный профессор"
+      },
+      "imagePath": "/images/team/babets-d-v.png",
+      "reportsTo": "moldabayev-s-k",
+      "level": 4,
+      "position": {
+        "en": "Lead Research Officer",
+        "kk": "Жетекші ғылыми қызметкер",
+        "ru": "Ведущий научный сотрудник"
+      },
+      "hIndex": 10,
+      "labId": "geomechanics-and-geotechnology"
+    },
+    {
+      "id": "meirambek-g",
+      "name": {
+        "en": "Мейрамбек Гульдана, Dr. of Science in Engineering, Associate Professor",
+        "kk": "Мейрамбек Гульдана, т.ғ.к., ассоцацияланған профессор",
+        "ru": "Мейрамбек Гульдана, к.т.н., ассоциированный профессор"
+      },
+      "imagePath": "/images/team/meirambek-g.png",
+      "reportsTo": "moldabayev-s-k",
+      "level": 4,
+      "position": {
+        "en": "Lead Research Officer",
+        "kk": "Жетекші ғылыми қызметкер",
+        "ru": "Ведущий научный сотрудник"
+      },
+      "hIndex": 8,
+      "labId": "geomechanics-and-geotechnology"
+    },
+    {
+      "id": "motovilov-i-yu",
+      "name": {
+        "en": "Мотовилов Игорь Юрьевич, Ph.D., Associate Professor",
+        "kk": "Мотовилов Игорь Юрьевич, доктор Ph.D., ассоцацияланған профессор",
+        "ru": "Мотовилов Игорь Юрьевич, доктор Ph.D., ассоциированный профессор"
+      },
+      "imagePath": "/images/team/motovilov-i-yu.png",
+      "reportsTo": "barmenshinova-m-b",
+      "level": 4,
+      "position": {
+        "en": "Lead Research Officer",
+        "kk": "Жетекші ғылыми қызметкер",
+        "ru": "Ведущий научный сотрудник"
+      },
+      "hIndex": 5,
+      "labId": "researching-ores-preparation-characteristics"
+    },
+    {
+      "id": "moldabayeva-g-zh",
+      "name": {
+        "en": "Молдабаева Гульнара Жаксылыковна, Dr. of Science in Engineering, Associate Professor",
+        "kk": "Молдабаева Гульнара Жаксылыковна, т.ғ.к., ассоцацияланған профессор",
+        "ru": "Молдабаева Гульнара Жаксылыковна, к.т.н., ассоциированный профессор"
+      },
+      "imagePath": "/images/team/moldabayeva-g-zh.png",
+      "reportsTo": "tazhiyev-y-b",
+      "level": 4,
+      "position": {
+        "en": "Lead Research Officer",
+        "kk": "Жетекші ғылыми қызметкер",
+        "ru": "Ведущий научный сотрудник"
+      },
+      "hIndex": 4,
+      "labId": "pyro-hydrometallurgical-research-methods"
+    },
+    {
+      "id": "koyshina-g-m",
+      "name": {
+        "en": "Койшина Гулзада Мынгышкызы, Ph.D.",
+        "kk": "Койшина Гулзада Мынгышкызы, доктор Ph.D.",
+        "ru": "Койшина Гулзада Мынгышкызы, доктор Ph.D."
+      },
+      "imagePath": "/images/team/koyshina-g-m.png",
+      "reportsTo": "tazhiyev-y-b",
+      "level": 4,
+      "position": {
+        "en": "Lead Research Officer",
+        "kk": "Жетекші ғылыми қызметкер",
+        "ru": "Ведущий научный сотрудник"
+      },
+      "hIndex": 4,
+      "labId": "pyro-hydrometallurgical-research-methods"
+    },
+    {
+      "id": "aytenov-k-d",
+      "name": {
+        "en": "Айтенов Кенесбай Джолдасбекович, Dr. of Science in Engineering.",
+        "kk": "Айтенов Кенесбай Джолдасбекович, т.ғ.к.",
+        "ru": "Айтенов Кенесбай Джолдасбекович, к.т.н."
+      },
+      "imagePath": "/images/team/aytenov-k-d.png",
+      "reportsTo": "tazhiyev-y-b",
+      "level": 4,
+      "position": {
+        "en": "Lead Research Officer",
+        "kk": "Жетекші ғылыми қызметкер",
+        "ru": "Ведущий научный сотрудник"
+      },
+      "hIndex": 1,
+      "labId": "pyro-hydrometallurgical-research-methods"
+    },
+    {
+      "id": "yulussov-s-b",
+      "name": {
+        "en": "Юлусов Султан Балтабаевич, Ph.D.",
+        "kk": "Юлусов Султан Балтабаевич, доктор Ph.D.",
+        "ru": "Юлусов Султан Балтабаевич, доктор Ph.D."
+      },
+      "imagePath": "/images/team/yulussov-s-b.png",
+      "reportsTo": "chepushtanova-t-a",
+      "level": 4,
+      "position": {
+        "en": "Lead Research Officer",
+        "kk": "Жетекші ғылыми қызметкер",
+        "ru": "Ведущий научный сотрудник"
+      },
+      "hIndex": 4,
+      "labId": "metallurgical-processes-and-powder-metallurgy"
+    },
+    {
+      "id": "baigenzhenov-o-s",
+      "name": {
+        "en": "Байгенженов Омирсерик Сабыржанович, Ph.D.",
+        "kk": "Байгенженов Омирсерик Сабыржанович, доктор Ph.D.",
+        "ru": "Байгенженов Омирсерик Сабыржанович, доктор Ph.D."
+      },
+      "imagePath": "/images/team/baigenzhenov-o-s.png",
+      "reportsTo": "chepushtanova-t-a",
+      "level": 4,
+      "position": {
+        "en": "Lead Research Officer",
+        "kk": "Жетекші ғылыми қызметкер",
+        "ru": "Ведущий научный сотрудник"
+      },
+      "hIndex": 13,
+      "labId": "metallurgical-processes-and-powder-metallurgy"
+    },
+    {
+      "id": "khabiyev-a-t",
+      "name": {
+        "en": "Хабиев Алибек Талгатбекович, Ph.D.",
+        "kk": "Хабиев Алибек Талгатбекович, доктор Ph.D.",
+        "ru": "Хабиев Алибек Талгатбекович, доктор Ph.D."
+      },
+      "imagePath": "/images/team/khabiyev-a-t.png",
+      "reportsTo": "chepushtanova-t-a",
+      "level": 4,
+      "position": {
+        "en": "Lead Research Officer",
+        "kk": "Жетекші ғылыми қызметкер",
+        "ru": "Ведущий научный сотрудник"
+      },
+      "hIndex": 4,
+      "labId": "metallurgical-processes-and-powder-metallurgy"
+    },
+    {
+      "id": "mikhailovskiy-s-v",
+      "name": {
+        "en": "Михайловский Сергей Викторович, Ph.D., Professor, Chief Scientific Officer АНАМАД Ltd., Brighton",
+        "kk": "Михайловский Сергей Викторович, доктор Ph.D., профессор, АНАМАД Лимитед ғылыми директоры, Брайтон",
+        "ru": "Михайловский Сергей Викторович, доктор Ph.D., профессор, Научный директор АНАМАД Лимитед, Брайтон"
+      },
+      "imagePath": "/images/team/mikhailovskiy-s-v.png",
+      "reportsTo": "azat-s",
+      "level": 4,
+      "position": {
+        "en": "Lead Research Officer",
+        "kk": "Жетекші ғылыми қызметкер",
+        "ru": "Ведущий научный сотрудник"
+      },
+      "hIndex": 46,
+      "labId": "nanotechnology-and-nanomaterials"
+    },
+    {
+      "id": "beisebayeva-a-s",
+      "name": {
+        "en": "Бейсебаева Айгуль Самсалиевна",
+        "kk": "Бейсебаева Айгуль Самсалиевна",
+        "ru": "Бейсебаева Айгуль Самсалиевна"
+      },
+      "imagePath": "/images/team/beisebayeva-a-s.png",
+      "reportsTo": "azat-s",
+      "level": 4,
+      "position": {
+        "en": "Lead Research Officer",
+        "kk": "Жетекші ғылыми қызметкер",
+        "ru": "Ведущий научный сотрудник"
+      },
+      "hIndex": 2,
+      "labId": "nanotechnology-and-nanomaterials"
+    },
+    {
+      "id": "yelikbayev-b-k",
+      "name": {
+        "en": "Еликбаев Бахытжан Кошкинбаевич, Dr. habitus of Science in Biology., Docent (Senior Lecturer)",
+        "kk": "Еликбаев Бахытжан Кошкинбаевич, б.ғ.д., доцент",
+        "ru": "Еликбаев Бахытжан Кошкинбаевич, д.б.н., доцент"
+      },
+      "imagePath": "/images/team/yelikbayev-b-k.png",
+      "reportsTo": "kezembayeva-g-b",
+      "level": 4,
+      "position": {
+        "en": "Lead Research Officer",
+        "kk": "Жетекші ғылыми қызметкер",
+        "ru": "Ведущий научный сотрудник"
+      },
+      "hIndex": 3,
+      "labId": "ecological-monitoring"
+    },
+    {
+      "id": "zhakypbek-y",
+      "name": {
+        "en": "Жакыпбек Ырысжан, Ph.D.",
+        "kk": "Жакыпбек Ырысжан, доктор Ph.D.",
+        "ru": "Жакыпбек Ырысжан, доктор Ph.D."
+      },
+      "imagePath": "/images/team/zhakypbek-y.png",
+      "reportsTo": "kezembayeva-g-b",
+      "level": 4,
+      "position": {
+        "en": "Lead Research Officer",
+        "kk": "Жетекші ғылыми қызметкер",
+        "ru": "Ведущий научный сотрудник"
+      },
+      "hIndex": 4,
+      "labId": "ecological-monitoring"
+    }
+  ],
+  [
+    {
+      "id": "galiyev-d-a",
+      "name": {
+        "en": "Галиев Данияр Айткалиевич, Ph.D.",
+        "kk": "Галиев Данияр Айткалиевич, доктор Ph.D.",
+        "ru": "Галиев Данияр Айткалиевич, доктор Ph.D."
+      },
+      "imagePath": "/images/team/galiyev-d-a.png",
+      "reportsTo": "rakishev-b-r",
+      "level": 5,
+      "position": {
+        "en": "Senior Research Officer",
+        "kk": "Аға ғылыми қызметкер",
+        "ru": "Старший научный сотрудник"
+      },
+      "labId": "digital-computer-modelling-ore-extraction-technologies"
+    },
+    {
+      "id": "adamchuk-a",
+      "name": {
+        "en": "Адамучк Андрей, Dr. of Science in Engineering.",
+        "kk": "Адамучк Андрей, т.ғ.к.",
+        "ru": "Адамучк Андрей, к.т.н."
+      },
+      "imagePath": "/images/team/adamchuk-a.png",
+      "reportsTo": "moldabayev-s-k",
+      "level": 5,
+      "position": {
+        "en": "Senior Research Officer",
+        "kk": "Аға ғылыми қызметкер",
+        "ru": "Старший научный сотрудник"
+      },
+      "hIndex": 11,
+      "labId": "geomechanics-and-geotechnology"
+    },
+    {
+      "id": "sarybayev-n-o",
+      "name": {
+        "en": "Сарыбаев Нуржигит Омарович, Ph.D.",
+        "kk": "Сарыбаев Нуржигит Омарович, доктор Ph.D.",
+        "ru": "Сарыбаев Нуржигит Омарович, доктор Ph.D."
+      },
+      "imagePath": "/images/team/sarybayev-n-o.png",
+      "reportsTo": "moldabayev-s-k",
+      "level": 5,
+      "position": {
+        "en": "Senior Research Officer",
+        "kk": "Аға ғылыми қызметкер",
+        "ru": "Старший научный сотрудник"
+      },
+      "hIndex": 5,
+      "labId": "geomechanics-and-geotechnology"
+    },
+    {
+      "id": "daruyesh-g-s",
+      "name": {
+        "en": "Даруеш Галамат Султанбекулы, Ph.D.",
+        "kk": "Даруеш Галамат Султанбекулы, доктор Ph.D.",
+        "ru": "Даруеш Галамат Султанбекулы, доктор Ph.D."
+      },
+      "imagePath": "/images/team/daruyesh-g-s.png",
+      "reportsTo": "barmenshinova-m-b",
+      "level": 5,
+      "position": {
+        "en": "Senior Research Officer",
+        "kk": "Аға ғылыми қызметкер",
+        "ru": "Старший научный сотрудник"
+      },
+      "hIndex": 4,
+      "labId": "researching-ores-preparation-characteristics"
+    },
+    {
+      "id": "khalhabay-b",
+      "name": {
+        "en": "Халхабай Бостандык, Dr. of Science in Engineering, Docent (Senior Lecturer)",
+        "kk": "Халхабай Бостандык, т.ғ.к., доцент",
+        "ru": "Халхабай Бостандык, к.т.н., доцент"
+      },
+      "imagePath": "/images/team/khalhabay-b.png",
+      "reportsTo": "kezembayeva-g-b",
+      "level": 5,
+      "position": {
+        "en": "Senior Research Officer",
+        "kk": "Аға ғылыми қызметкер",
+        "ru": "Старший научный сотрудник"
+      },
+      "hIndex": 2,
+      "labId": "ecological-monitoring"
+    }
+  ],
+  [
+    {
+      "id": "yeluzakh-m",
+      "name": {
+        "en": "Елузах Мухтар, Dr. of Science in Engineering.",
+        "kk": "Елузах Мухтар, т.ғ.к.",
+        "ru": "Елузах Мухтар, к.т.н."
+      },
+      "imagePath": "/images/team/yeluzakh-m.png",
+      "reportsTo": "moldabayev-s-k",
+      "level": 6,
+      "position": {
+        "en": "Research Officer",
+        "kk": "Ғылыми қызметкер",
+        "ru": "Научный сотрудник"
+      },
+      "labId": "geomechanics-and-geotechnology"
+    },
+    {
+      "id": "raimbekova-a-s",
+      "name": {
+        "en": "Раимбекова Айнура Сагинжановна, Ph.D.",
+        "kk": "Раимбекова Айнура Сагинжановна, доктор Ph.D.",
+        "ru": "Раимбекова Айнура Сагинжановна, доктор Ph.D."
+      },
+      "imagePath": "/images/team/raimbekova-a-s.png",
+      "reportsTo": "kubekova-sh-n",
+      "level": 6,
+      "position": {
+        "en": "Research Officer",
+        "kk": "Ғылыми қызметкер",
+        "ru": "Научный сотрудник"
+      },
+      "hIndex": 3,
+      "labId": "chemical-analytic-surveys"
+    },
+    {
+      "id": "kalymbet-a-k",
+      "name": {
+        "en": "Қалымбет Арайлым Қайролдақызы",
+        "kk": "Қалымбет Арайлым Қайролдақызы",
+        "ru": "Қалымбет Арайлым Қайролдақызы"
+      },
+      "imagePath": "/images/team/kalymbet-a-k.png",
+      "reportsTo": "kubekova-sh-n",
+      "level": 6,
+      "position": {
+        "en": "Research Officer",
+        "kk": "Ғылыми қызметкер",
+        "ru": "Научный сотрудник"
+      },
+      "labId": "chemical-analytic-surveys"
+    },
+    {
+      "id": "dzhumankulova-s-k",
+      "name": {
+        "en": "Джуманкулова Салтанат Карабаевна, Ph.D.",
+        "kk": "Джуманкулова Салтанат Карабаевна, доктор Ph.D.",
+        "ru": "Джуманкулова Салтанат Карабаевна, доктор Ph.D."
+      },
+      "imagePath": "/images/team/dzhumankulova-s-k.png",
+      "reportsTo": "tazhiyev-y-b",
+      "level": 6,
+      "position": {
+        "en": "Research Officer",
+        "kk": "Ғылыми қызметкер",
+        "ru": "Научный сотрудник"
+      },
+      "hIndex": 4,
+      "labId": "pyro-hydrometallurgical-research-methods"
+    },
+    {
+      "id": "taimasova-a-n",
+      "name": {
+        "en": "Таимасова Акбота Нурлановна, докторант",
+        "kk": "Таимасова Акбота Нурлановна, докторант",
+        "ru": "Таимасова Акбота Нурлановна, докторант"
+      },
+      "imagePath": "/images/team/taimasova-a-n.png",
+      "reportsTo": "tazhiyev-y-b",
+      "level": 6,
+      "position": {
+        "en": "Research Officer",
+        "kk": "Ғылыми қызметкер",
+        "ru": "Научный сотрудник"
+      },
+      "hIndex": 1,
+      "labId": "pyro-hydrometallurgical-research-methods"
+    },
+    {
+      "id": "sydykanov-m-m",
+      "name": {
+        "en": "Сыдықанов Мұратбек Мұхтарбекұлы, докторант",
+        "kk": "Сыдықанов Мұратбек Мұхтарбекұлы, докторант",
+        "ru": "Сыдықанов Мұратбек Мұхтарбекұлы, докторант"
+      },
+      "imagePath": "/images/team/sydykanov-m-m.png",
+      "reportsTo": "tazhiyev-y-b",
+      "level": 6,
+      "position": {
+        "en": "Research Officer",
+        "kk": "Ғылыми қызметкер",
+        "ru": "Научный сотрудник"
+      },
+      "hIndex": 1,
+      "labId": "pyro-hydrometallurgical-research-methods"
+    },
+    {
+      "id": "merkibayev-ye-s",
+      "name": {
+        "en": "Меркибаев Ерик Серикович, Ph.D.",
+        "kk": "Меркибаев Ерик Серикович, доктор Ph.D.",
+        "ru": "Меркибаев Ерик Серикович, доктор Ph.D."
+      },
+      "imagePath": "/images/team/merkibayev-ye-s.png",
+      "reportsTo": "chepushtanova-t-a",
+      "level": 6,
+      "position": {
+        "en": "Research Officer",
+        "kk": "Ғылыми қызметкер",
+        "ru": "Научный сотрудник"
+      },
+      "hIndex": 2,
+      "labId": "metallurgical-processes-and-powder-metallurgy"
+    },
+    {
+      "id": "kunarbekova-m-s",
+      "name": {
+        "en": "Кунарбекова Махаббат Сейт-Задаевна",
+        "kk": "Кунарбекова Махаббат Сейт-Задаевна",
+        "ru": "Кунарбекова Махаббат Сейт-Задаевна"
+      },
+      "imagePath": "/images/team/kunarbekova-m-s.png",
+      "reportsTo": "azat-s",
+      "level": 6,
+      "position": {
+        "en": "Research Officer",
+        "kk": "Ғылыми қызметкер",
+        "ru": "Научный сотрудник"
+      },
+      "hIndex": 3,
+      "labId": "nanotechnology-and-nanomaterials"
+    },
+    {
+      "id": "zhantikeev-u-ye",
+      "name": {
+        "en": "Жантикеев Ұлан Ержанұлы",
+        "kk": "Жантикеев Ұлан Ержанұлы",
+        "ru": "Жантикеев Ұлан Ержанұлы"
+      },
+      "imagePath": "/images/team/zhantikeev-u-ye.png",
+      "reportsTo": "azat-s",
+      "level": 6,
+      "position": {
+        "en": "Research Officer",
+        "kk": "Ғылыми қызметкер",
+        "ru": "Научный сотрудник"
+      },
+      "hIndex": 4,
+      "labId": "nanotechnology-and-nanomaterials"
+    },
+    {
+      "id": "yeszhan-ye-n",
+      "name": {
+        "en": "Есжан Елриза Нұрәкімқызы",
+        "kk": "Есжан Елриза Нұрәкімқызы",
+        "ru": "Есжан Елриза Нұрәкімқызы"
+      },
+      "imagePath": "/images/team/yeszhan-ye-n.png",
+      "reportsTo": "azat-s",
+      "level": 6,
+      "position": {
+        "en": "Research Officer",
+        "kk": "Ғылыми қызметкер",
+        "ru": "Научный сотрудник"
+      },
+      "hIndex": 4,
+      "labId": "nanotechnology-and-nanomaterials"
+    }
+  ],
+  [
+    {
+      "id": "alibayev-a-ye",
+      "name": {
+        "en": "Алибаев Азамат Ергенович, докторант",
+        "kk": "Алибаев Азамат Ергенович, докторант",
+        "ru": "Алибаев Азамат Ергенович, докторант"
+      },
+      "imagePath": "/images/team/alibayev-a-ye.png",
+      "reportsTo": "rakishev-b-r",
+      "level": 7,
+      "position": {
+        "en": "Junior Researcher",
+        "kk": "Кіші ғылыми қызметкер",
+        "ru": "Младший научный сотрудник"
+      },
+      "labId": "digital-computer-modelling-ore-extraction-technologies"
+    },
+    {
+      "id": "ibyrkhanov-t-s",
+      "name": {
+        "en": "Ибырханов Темирлан Сакенович, докторант",
+        "kk": "Ибырханов Темирлан Сакенович, докторант",
+        "ru": "Ибырханов Темирлан Сакенович, докторант"
+      },
+      "imagePath": "/images/team/ibyrkhanov-t-s.png",
+      "reportsTo": "rakishev-b-r",
+      "level": 7,
+      "position": {
+        "en": "Junior Research Officer",
+        "kk": "Кіші ғылыми қызметкер",
+        "ru": "Младший научный сотрудник"
+      },
+      "labId": "digital-computer-modelling-ore-extraction-technologies"
+    },
+    {
+      "id": "asylkhanova-g-n",
+      "name": {
+        "en": "Асылханова Гүлнұр Ниязханқызы, докторант",
+        "kk": "Асылханова Гүлнұр Ниязханқызы, докторант",
+        "ru": "Асылханова Гүлнұр Ниязханқызы, докторант"
+      },
+      "imagePath": "/images/team/asylkhanova-g-n.png",
+      "reportsTo": "moldabayev-s-k",
+      "level": 7,
+      "position": {
+        "en": "Engineer",
+        "kk": "Инженер",
+        "ru": "Инженер"
+      },
+      "labId": "geomechanics-and-geotechnology"
+    },
+    {
+      "id": "khairullayev-a-m",
+      "name": {
+        "en": "Хайруллаев Алихан Мухтарулы, докторант",
+        "kk": "Хайруллаев Алихан Мухтарулы, докторант",
+        "ru": "Хайруллаев Алихан Мухтарулы, докторант"
+      },
+      "imagePath": "/images/team/khairullayev-a-m.png",
+      "reportsTo": "moldabayev-s-k",
+      "level": 7,
+      "position": {
+        "en": "Senior Laboratory Worker",
+        "kk": "Аға лаборант",
+        "ru": "Старший лаборант"
+      },
+      "labId": "geomechanics-and-geotechnology"
+    },
+    {
+      "id": "omar-r-s",
+      "name": {
+        "en": "Омар Рақымжан Сұлтанбекұлы, магистр техн.наук",
+        "kk": "Омар Рақымжан Сұлтанбекұлы, магистр техн.наук",
+        "ru": "Омар Рақымжан Сұлтанбекұлы, магистр техн.наук"
+      },
+      "imagePath": "/images/team/omar-r-s.png",
+      "reportsTo": "barmenshinova-m-b",
+      "level": 7,
+      "position": {
+        "en": "Junior Research Officer",
+        "kk": "Кіші ғылыми қызметкер",
+        "ru": "Младший научный сотрудник"
+      },
+      "hIndex": 1,
+      "labId": "researching-ores-preparation-characteristics"
+    },
+    {
+      "id": "adilzhan-zh",
+      "name": {
+        "en": "Әділжан Жанаргул, докторант",
+        "kk": "Әділжан Жанаргул, докторант",
+        "ru": "Әділжан Жанаргул, докторант"
+      },
+      "imagePath": "/images/team/adilzhan-zh.png",
+      "reportsTo": "barmenshinova-m-b",
+      "level": 7,
+      "position": {
+        "en": "Junior Research Officer",
+        "kk": "Кіші ғылыми қызметкер",
+        "ru": "Младший научный сотрудник"
+      },
+      "labId": "researching-ores-preparation-characteristics"
+    },
+    {
+      "id": "dauletbakova-a-a",
+      "name": {
+        "en": "Даулетбакова Аделя Алибековна, докторант",
+        "kk": "Даулетбакова Аделя Алибековна, докторант",
+        "ru": "Даулетбакова Аделя Алибековна, докторант"
+      },
+      "imagePath": "/images/team/dauletbakova-a-a.png",
+      "reportsTo": "tazhiyev-y-b",
+      "level": 7,
+      "position": {
+        "en": "Engineer",
+        "kk": "Инженер",
+        "ru": "Инженер"
+      },
+      "labId": "pyro-hydrometallurgical-research-methods"
+    },
+    {
+      "id": "zharylkan-s-m",
+      "name": {
+        "en": "Жарылқан Сәуле Маратқызы",
+        "kk": "Жарылқан Сәуле Маратқызы",
+        "ru": "Жарылқан Сәуле Маратқызы"
+      },
+      "imagePath": "/images/team/zharylkan-s-m.png",
+      "reportsTo": "azat-s",
+      "level": 7,
+      "position": {
+        "en": "Junior Research Officer",
+        "kk": "Кіші ғылыми қызметкер",
+        "ru": "Младший научный сотрудник"
+      },
+      "hIndex": 3,
+      "labId": "nanotechnology-and-nanomaterials"
+    },
+    {
+      "id": "sankabayeva-a-n",
+      "name": {
+        "en": "Санкабаева Асел Нурсалимовна, докторант",
+        "kk": "Санкабаева Асел Нурсалимовна, докторант",
+        "ru": "Санкабаева Асел Нурсалимовна, докторант"
+      },
+      "imagePath": "/images/team/sankabayeva-a-n.png",
+      "reportsTo": "kezembayeva-g-b",
+      "level": 7,
+      "position": {
+        "en": "Junior Research Officer",
+        "kk": "Кіші ғылыми қызметкер",
+        "ru": "Младший научный сотрудник"
+      },
+      "labId": "ecological-monitoring"
+    }
+  ]
+]

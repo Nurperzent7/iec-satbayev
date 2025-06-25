@@ -1,0 +1,737 @@
+{
+  "digital-computer-modelling-ore-extraction-technologies": {
+    "title": {
+      "en": "Digital and computer modelling technologies of extracting ores from blocks of different complexity laboratory",
+      "kk": "Түрлі қурылыс блоктардан кен шығару технологияларды сандық және компьютер модельдеу лабораториясы",
+      "ru": "Лаборатория цифрового, компьютерного моделирования технологий добычи руд из блоков различной сложности строения"
+    },
+    "description": {
+      "en": "Development of innovative methods for automating the design of blasting and extraction-and-loading works to increase the solid minerals extraction efficiency",
+      "kk": "Қатты пайдалы қазбалар шығаруының тиімділігін арттыру үшін бұрғылап-жару және қазу-тиеу жұмыстарын автоматтандырудың жаңа әдістерін әзірлеу",
+      "ru": "Разработка инновационных методов автоматизирования проектирования буровзрывных и выемочно-погрузочных работ для повышения эффективности добычи твёрдых полезных ископаемых"
+    },
+    "professor": {
+      "en": "D.Sc. in engineering, professor, member of the National Academy of Sciences of Kazakhstan, Rakishev Bayan Rakishevich",
+      "kk": "т.ғ.д, профессор, ҚР ҰҒА академигі, Ракишев Баян Ракишевич",
+      "ru": "д.т.н., профессор, академик НАН РК, Ракишев Баян Ракишевич"
+    },
+    "benefits": {
+      "en": [
+        "Optimization of blasting and mining works reduces material costs and labour costs",
+        "Automated design improves the productivity of extraction-and-loading works",
+        "Digital modeling allows calculating parameters of extraction in advance, thus reducing risks"
+      ],
+      "kk": [
+        "Бұрғылап-жару жұмыстарының оңтайландыру материалдар және еңбек қуаттарының шығынын азайтады",
+        "Автоматтандырылған жобалау қазу-тиеу жұмыстарының өнімділігін арттырады",
+        "Сандық модельдеу қазу-тиеу жұмыстарының параметрлерін алдын-ала есептеуге, қауіпсіздік рисктерін азайтуға мүмкіндік береді"
+      ],
+      "ru": [
+        "Оптимизация буровзрывных и горных работ уменьшает расходы на материалы и трудозатраты",
+        "Автоматизированное проектирование улучшает продуктивность выемочно-погрузочных работ",
+        "Цифровое моделирование позволяет заранее рассчитать параметры добычи, снижая риски"
+      ]
+    },
+    "tasks": {
+      "en": [
+        "Digital modeling of blasting works",
+        "Development of software for automated design",
+        "Prediction and optimization of ore extraction.",
+        "Evaluation of the granulometric composition of blasted rocks using the latest equipment",
+        "Application of drones for scanning complex blocks"
+      ],
+      "kk": [
+        "Бұрғылап-жару жұмыстарды сандық модельдеу",
+        "Автоматтандырылған жобалау үшін бағдарламалық жасақтама әзірлеу",
+        "Кендердің қаздауын болжау және оңтайландыру",
+        "Жаңа жабдықтың көмегімен жарылған тау жыныстарының гранулометриялық құрамын бағалау",
+        "Дрондардың көмегімен күрделі құрылымдық блокты сканерлеу"
+      ],
+      "ru": [
+        "Цифровое моделирование буровзрывных работ",
+        "Разработка программного обеспечения для автоматизированного проектирования",
+        "Прогнозирование и оптимизация добычи руд.",
+        "Оценка гранулометрического состава взорванных пород с помощью новейшего оборудования",
+        "Применение дронов для сканирования сложноструктурных блоков"
+      ]
+    },
+    "solutions": {
+      "en": [
+        "Increase of extraction efficiency",
+        "Modern analytical and software methods",
+        "Reduction of costs for blasting works",
+        "PortalMetrics Gen 2, drones for scanning"
+      ],
+      "kk": [
+        "Шығарудың тиімділігін арттыру",
+        "Заманауи аналитикалық және бағдарламалық әдістер",
+        "Бұрғылап-жару жұмыстарының құнын азайту",
+        "PortalMetrics Gen 2, сканерлеуге арналған дрондар"
+      ],
+      "ru": [
+        "Повышение эффективности добычи",
+        "Современные аналитические и программные методы",
+        "Снижение затрат на буровзрывные работы",
+        "PortalMetrics Gen 2, дроны для сканирования"
+      ]
+    },
+    "imagePaths": [
+      "/images/lab-cover/lab1.jpg",
+      "/images/labs/lab1/IMG_9289.jpeg",
+      "/images/labs/lab1/IMG_9293.jpeg",
+      "/images/labs/lab1/IMG_9297.jpeg",
+      "/images/labs/lab1/IMG_9300.jpeg"
+    ],
+    "videoPaths": [
+      "https://www.youtube.com/watch?v=Sv3zH5nIkeo"
+    ],
+    "professorImagePath": "/images/team/rakishev-b-r.png"
+  },
+  "geomechanics-and-geotechnology": {
+    "title": {
+      "en": "Geomechanics and geotechnologies laboratory",
+      "kk": "Геомеханика және геотехнология лабораториясы",
+      "ru": "Лаборатория геомеханики и геотехнологий"
+    },
+    "description": {
+      "en": "Studies to establish the stress-strain state of exposed rocks based on accurate determination of the strength and elastic-deformation properties of rock masses.",
+      "kk": "Тастақты тау жыныстарының беріктіктік және серпімді-деформациялық қасиеттерін нақты анықтау бойынша тау жыныстар ашылуылардың кернеулі-деформацияланған күйін анықтау бойынша зерттеу жұмыстарын жүргізу",
+      "ru": "Выполнение исследований по установлению напряженно-деформированного состояния обнажений горных выработок на основе точного определения прочностных и упруго-деформационных свойств скальных горных пород."
+    },
+    "professor": {
+      "en": "D.Sc. in engineering, professor, Moldabayev Serik Kurashovich",
+      "kk": "д.т.н., профессор, Молдабаев Серик Курашович",
+      "ru": "д.т.н., профессор, Молдабаев Серик Курашович"
+    },
+    "benefits": {
+      "en": [
+        "Optimization of mining works, reduction of costs and increase of safety",
+        "Fast return on investment and attraction of new projects",
+        "Expansion of cooperation and commercialization of research"
+      ],
+      "kk": [
+        "Тау-кен жумыстарды оңтайландыру, шығындарды азайту және қауіпсіздікті арттыру",
+        "Инвестициялардың жылдам өтелімділігі және жаңа жобаларды жұмылдыру",
+        "Ынтымақтастықты кеңейту және зерттеулерді коммерцияландыру"
+      ],
+      "ru": [
+        "Оптимизация горных работ, снижение затрат и повышение безопасности",
+        "Быстрая окупаемость инвестиций и привлечение новых проектов",
+        "Расширение сотрудничества и коммерциализации исследований"
+      ]
+    },
+    "tasks": {
+      "en": [
+        "Strength tests of rocks",
+        "Analysis of elastic-deformation characteristics",
+        "Modelling of stress-strain state",
+        "Preparation of geomechanical models"
+      ],
+      "kk": [
+        "Тау жыныстарының беріктіктік сынаулары",
+        "Серпімді-деформациялық қасиеттерді талдау",
+        "Кернеулі-деформацияланған күйін модельдеу",
+        "Геомеханикалық модельдерді дайындау"
+      ],
+      "ru": [
+        "Прочностные испытания горных пород",
+        "Анализ упруго-деформационных характеристик",
+        "Моделирование напряженно-деформированного состояния",
+        "Подготовка геомеханических моделей"
+      ]
+    },
+    "solutions": {
+      "en": [
+        "Analysis of rock stability and development of protection measures",
+        "Modelling of stress-strain state of rock masses",
+        "Development of methods to prevent and reduce rock hazards",
+        "Engineering support of mining companies"
+      ],
+      "kk": [
+        "Тау жыныстарының орнықтылығын талдау және қорғау әдістерін әзірлеу",
+        "Тау сілемдерінің кернеулі-деформацияланған күйін модельдеу",
+        "Тау жыныс соққыларын болдырмау әдістерін әзірлеу",
+        "Тау жыныс шығару кәсіпорындарына инженерлік қолдау"
+      ],
+      "ru": [
+        "Анализ устойчивости пород и разработка мер защиты",
+        "Моделирование напряженно-деформированного состояния горных массивов",
+        "Разработка методов предотвращения и снижения горных ударов",
+        "Инженерная поддержка горно-добывающих компаний"
+      ]
+    },
+    "imagePaths": [
+      "/images/lab-cover/lab2.jpg",
+      "/images/labs/lab2/IMG_9221.jpeg",
+      "/images/labs/lab2/IMG_9223.jpeg",
+      "/images/labs/lab2/IMG_9237.jpeg",
+      "/images/labs/lab2/IMG_9236.jpeg",
+      "/images/labs/lab2/IMG_9222.jpeg",
+      "/images/labs/lab2/IMG_9239.jpeg",
+      "/images/labs/lab2/IMG_9215.jpeg",
+      "/images/labs/lab2/IMG_9217.jpeg"
+    ],
+    "videoPaths": [
+      "https://www.youtube.com/watch?v=8w45-p6W4-o"
+    ],
+    "professorImagePath": "/images/team/moldabayev-s-k.png"
+  },
+  "chemical-analytic-surveys": {
+    "title": {
+      "en": "Chemical and analytical surveys laboratory",
+      "kk": "Химиялық анализ зерттеулер лабораториясы",
+      "ru": "Лаборатория химико-аналитических исследований"
+    },
+    "description": {
+      "en": "Analysis of the material and mineral composition of raw ores using modern instrumental methods.",
+      "kk": "Заманауи аспаптық әдістерді қолдана отырып, кен шикізатының заттық және минералдық құрамын талдау",
+      "ru": "Анализ вещественного и минерального состава рудного сырья с использованием современных инструментальных методов."
+    },
+    "professor": {
+      "en": "PhD, associate professor, Kubekova Sholpan Nakishbekovna",
+      "kk": "т.ғ.к, ассоцацияланған профессор, Кубекова Шолпан Накишбековна",
+      "ru": "к.т.н., ассоциированный профессор, Кубекова Шолпан Накишбековна"
+    },
+    "benefits": {
+      "en": [
+        "Accurate data help reduce costs and increase efficiency",
+        "Working with metals, liquids, polymers and other materials",
+        "Non-destructive analysis reduces material losses"
+      ],
+      "kk": [
+        "Нақты деректер шығындарды азайтуға және тиімділікті арттыруға көмектеседі",
+        "Металдар, сұйықтар, полимерлер және басқа материалдармен жұмыс істеу",
+        "Бұзбайтын талдау материалдардың жоғалтымдарын азайтады"
+      ],
+      "ru": [
+        "Точные данные помогают снизить затраты и повысить эффективность",
+        "Работа с металлами, жидкостями, полимерами и другими материалами",
+        "Неразрушающий анализ снижает потери материалов"
+      ]
+    },
+    "tasks": {
+      "en": [
+        "Complex studies of the chemical and mineral composition",
+        "Analysis of texture-structural and morphological characteristics",
+        "Study of the optical properties of ore and techno-mineral formations",
+        "High-precision analysis of a wide range of elements from sodium (Na) to uranium (U)",
+        "Practically non-destructive analysis of various materials"
+      ],
+      "kk": [
+        "Химиялық және минералогиялық құрамын күрделі зерттеу",
+        "Текстуралық-құрылымдық және морфологиялық қасиеттерді талдау",
+        "Кенді және техно-минералдық кеніштердің оптикалық қасиеттерін зерттеу",
+        "Натрий (Na)-дан бастап Уран (U)-ға дейін элементтерді қамтитін спектрді дәлдігі жоғары талдау",
+        "Түрлі материалдардың іс жүзінде бұзбайтын талдау"
+      ],
+      "ru": [
+        "Комплексные исследования химического и минералогического состава",
+        "Анализ текстурно-структурных и морфологических характеристик",
+        "Изучение оптических свойств рудных и техно-минеральных образований",
+        "Высокоточный анализ широкого спектра элементов от натрия (Na) до урана (U)",
+        "Практически неразрушающий анализ различных материалов"
+      ]
+    },
+    "solutions": {
+      "en": [
+        "Unique Rigaku NEX CG II spectrometer with high sensitivity",
+        "Advanced QuantEZ RPF-SQX software",
+        "Analysis of liquids, solids, metals, polymers and surface coatings",
+        "Accurate and reliable results thanks to the modern optical system"
+      ],
+      "kk": [
+        "Сезгіштігі жоғары бірегей Rigaku NEX CG II спектрометрі",
+        "Озат QuantEZ RPF-SQX бағдарламалы жасақтамас",
+        "Сұйықтар, қатты денелер, металдар, полимерлер және жабындардың талдауы",
+        "Заманауи оптикалық жүйе арқылы нақты және анық нәтижелер"
+      ],
+      "ru": [
+        "Уникальный спектрометр Rigaku NEX CG II с высокой чувствительностью",
+        "Передовое программное обеспечение QuantEZ RPF-SQX",
+        "Анализ жидкостей, твердых тел, металлов, полимеров и покрытий",
+        "Точные и достоверные результаты благодаря современной оптической системе"
+      ]
+    },
+    "imagePaths": [
+      "/images/lab-cover/lab3.jpg",
+      "/images/labs/lab3/IMG_9233.jpeg",
+      "/images/labs/lab3/IMG_9230.jpeg",
+      "/images/labs/lab3/IMG_9234.jpeg"
+    ],
+    "videoPaths": [
+      "https://www.youtube.com/watch?v=PUjMe-eg4IU"
+    ],
+    "professorImagePath": "/images/team/kubekova-sh-n.png"
+  },
+  "researching-ores-preparation-characteristics": {
+    "title": {
+      "en": "Researching ores' preparation characteristics laboratory",
+      "kk": "Кендерді байытылғыштыққа зерттеу лабораториясы",
+      "ru": "Лаборатория исследования руд на обогатимость"
+    },
+    "description": {
+      "en": "Studies on preparation characteristics of ore and non-metallic minerals and development of technologies for their beneficiation.",
+      "kk": "Кенді және бейметаллды пайдалы қазбаларды байытылғыштыққа зерттеулерін орындау және оларды байыту технологияларын әзірлеу",
+      "ru": "Выполнение исследований на обогатимость рудных и неметаллических полезных ископаемых и разработка технологий их обогащения."
+    },
+    "professor": {
+      "en": "PhD, associate professor, Barmenshina Madina Bogembayevna",
+      "kk": "т.ғ.к, ассоцияланған профессор, Барменшинова Мадина Богембаевна",
+      "ru": "к.т.н., ассоциированный профессор, Барменшинова Мадина Богембаевна"
+    },
+    "benefits": {
+      "en": [
+        "Reduction of material costs and improvement of ecological situation",
+        "Expansion of production capacities",
+        "Commercialization of nanomaterials and analytical services"
+      ],
+      "kk": [
+        "Шикізатқа шығындарды азайту және экологияны жақсарту",
+        "Өндіріс қуаттың кеңейуі",
+        "Наноматериалдардың және талдау қызметтерін коммерцияландыру"
+      ],
+      "ru": [
+        "Снижение затрат на сырьё и улучшение экологии",
+        "Расширение производственных мощностей",
+        "Коммерциализация наноматериалов и аналитических услуг"
+      ]
+    },
+    "tasks": {
+      "en": [
+        "Development of beneficiation technologies and schemes",
+        "Obtaining necessary data for designing new ore beneficiation plants",
+        "Obtaining necessary data for improving the technology at existing plants",
+        "Obtaining necessary data for testing new machines and reagents"
+      ],
+      "kk": [
+        "Байыту технологияларын және тәсімдерін әзірлеу",
+        "Жаңа байыту фабрикалары жобалау үшін қажетті деректерді алу",
+        "Әрекеттегі байыту фабрикаларының технологияларын жетілдіру үшін қажетті деректерді алу",
+        "Жаңа машиналарды және реагенттерді сынау үшін қажетті деректерді алу"
+      ],
+      "ru": [
+        "Разработка технологии и схем обогащения",
+        "Получение необходимых данных для проектирования новых обогатительных фабрик",
+        "Получение необходимых данных для усовершенствования технологии на действующих фабриках",
+        "Получение необходимых данных для испытаний новых машин и реагентов"
+      ]
+    },
+    "solutions": {
+      "en": [
+        "Sample preparation of ores for chemical analysis",
+        "Sieve and sedimentation analyses",
+        "Tests on gravity separation",
+        "Tests on flotation",
+        "Tests on electric miniral processing",
+        "Studies on ore processing by gravity, flotation, magnetic and electric methods"
+      ],
+      "kk": [
+        "Кендер сынамаларын химиялық зерттеуге дайындау",
+        "Екшеп және седиментациялық талдаулар",
+        "Гравитациялық байыту сынаулар",
+        "Флотациялық байыту сынаулар",
+        "Электрлік байыту сынаулар",
+        "Гравитациялық және флотациялық, магниттік және электрлік әдістермен байытылғыштыққа зерттеулерді орындау"
+      ],
+      "ru": [
+        "Пробоподготовка руд к химическому анализу",
+        "Ситовые и седиментационные анализы",
+        "Тесты по гравитационному обогащению",
+        "Тесты по флотационному обогащению",
+        "Тесты по электрическому обогащению",
+        "Выполнение исследований на обогатимость гравитационными и флотационными, магнитными и электрическими методами обогащения"
+      ]
+    },
+    "imagePaths": [
+      "/images/lab-cover/lab4.jpg",
+      "/images/labs/lab4/IMG_9278.jpeg",
+      "/images/labs/lab4/IMG_9244.jpeg",
+      "/images/labs/lab4/IMG_9257.jpeg",
+      "/images/labs/lab4/IMG_9242.jpeg",
+      "/images/labs/lab4/IMG_9255.jpeg",
+      "/images/labs/lab4/IMG_9264.jpeg",
+      "/images/labs/lab4/IMG_9258.jpeg",
+      "/images/labs/lab4/IMG_9265.jpeg",
+      "/images/labs/lab4/IMG_9272.jpeg",
+      "/images/labs/lab4/IMG_9277.jpeg",
+      "/images/labs/lab4/IMG_9249.jpeg"
+    ],
+    "videoPaths": [
+      "https://www.youtube.com/watch?v=smTu8etfIe0"
+    ],
+    "professorImagePath": "/images/team/barmenshinova-m-b.png"
+  },
+  "pyro-hydrometallurgical-research-methods": {
+    "title": {
+      "en": "Pyro-hydrometallurgical research methods laboratory",
+      "kk": "Пиро-гидрометаллургиялық зерттеулер лабораториясы",
+      "ru": "Лаборатория пиро-гидрометаллургических исследований"
+    },
+    "description": {
+      "en": "Development and implementation of resource- and energy-saving technologies for processing ores, industrial products and metal production waste.",
+      "kk": "Кендер, өнеркәсіптік өнімдер және металлургиялық өндіріс шығындарын қайта өндеуде ресурс және энергия үнемдейтін технологиялар әзірлеу",
+      "ru": "Разработка и внедрение ресурсо- и энергосберегающих технологий по переработке руд, промышленных продуктов и отходов металлургического производства."
+    },
+    "professor": {
+      "en": "PhD, associate professor, Tazhiyev Yeleusiz Bolatovich",
+      "kk": "PhD, ассоцияланған профессор, Тажиев Елеусиз Болатович",
+      "ru": "PhD, ассоциированный профессор, Тажиев Елеусиз Болатович"
+    },
+    "benefits": {
+      "en": [
+        "Increase of metallurgical operations' efficiency",
+        "Development of energy- and resource-saving technologies",
+        "Obtaining energy- and resource-saving technologies"
+      ],
+      "kk": [
+        "Металлургиялық жұмыстарының тиімділігін арттыру",
+        "Энергия және ресурстарды үнемдейтін технологиялар әзірлеу",
+        "Энергия және ресурстарды үнемдейтін технологиялар жинау"
+      ],
+      "ru": [
+        "Повышение эффективности металлургических операций",
+        "Разработка энерго- и ресурсосберегающих технологий",
+        "Получение энерго- и ресурсосберегающих технологий"
+      ]
+    },
+    "tasks": {
+      "en": [
+        "Optimization of pyro-hydrometallurgical processes",
+        "Electrometallurgical studies",
+        "Development of technological regulations of metallurgical production",
+        "Thermal analysis of ores and metallurgical compounds",
+        "Smelting and roasting of mineral and secondary raw materials"
+      ],
+      "kk": [
+        "Пиро-гидрометаллургиялық үдерістерін оңтайландыру",
+        "Электрометаллургиялық зерттеулер",
+        "Металлургиялық өндіріс технологиялық регламенттерді құрастыру",
+        "Кенді мен металлургиялық қосылыстарын термиялық талдау",
+        "Минералдық және қайталама шикізатты күйдіру және қорыту"
+      ],
+      "ru": [
+        "Оптимизация пиро-гидрометаллургических процессов",
+        "Электрометаллургические исследования",
+        "Разработка технологических регламентов металлургического производства",
+        "Термический анализ рудных и металлургических соединений",
+        "Обжиг и плавка минерального и вторичного сырья"
+      ]
+    },
+    "solutions": {
+      "en": [
+        "Accurate measurements and high temperatures up to 1800°C",
+        "Minimization of errors and high speed of work",
+        "Wide range of tests from pH-metry to synchronous thermal analysis",
+        "Ability to work with different materials and conditions"
+      ],
+      "kk": [
+        "Дәл өлшеулер және 1800°C-қа дейін температуралар",
+        "Қателіктерді азайту және жоғары жұмыс жылдамдығы",
+        "pH-метрияден бастап синхронды термиялық талдауға дейін көптеген талдаулар",
+        "Түрлі материалдар мен шарттармен жұмыс істеу"
+      ],
+      "ru": [
+        "Точные измерения и высокие температуры до 1800°C",
+        "Минимизация ошибок и высокая скорость работы",
+        "Широкий спектр анализов от pH-метрии до синхронного термического анализа",
+        "Возможность работы с различными материалами и условиями"
+      ]
+    },
+    "imagePaths": [
+      "/images/labs/lab5/IMG_9285.jpeg",
+      "/images/labs/lab5/IMG_9279.jpeg",
+      "/images/labs/lab5/IMG_9287.jpeg",
+      "/images/labs/lab5/IMG_9282.jpeg"
+    ],
+    "videoPaths": [
+      "https://www.youtube.com/watch?v=cVG1dmFCJjk"
+    ],
+    "professorImagePath": "/images/team/tazhiyev-y-b.png"
+  },
+  "metallurgical-processes-and-powder-metallurgy": {
+    "title": {
+      "en": "Metallurgical processes and powder metallurgy laboratory",
+      "kk": "Металлургиялық процестер мен ұнтақтық металлургия лабораториясы",
+      "ru": "Лаборатория металлургических процессов и порошковой металлургии"
+    },
+    "description": {
+      "en": "Studies on thermal decomposition of metallurgical raw materials, optimization of smelting, roasing, hydrometallurgy; selection of reagents, physical and chemical analysis, thermal calculations, production of powders of precious metals, refractory materials, special alloys",
+      "kk": "Металлургиялық шикізаттың термиялық ажыратуын зерттеу; күйдіру, қорыту, гидрометаллургияның оңтайландыруын; реагенттерді таңдау, физикалық-химиялық талдау, жылутехникалық есептеулер; түсті металдарының ұнтақтарын, оттөзімділерді, спецсплавтарды өндіру",
+      "ru": "Исследование термического разложения металлургического сырья, оптимизация обжига, плавки, гидрометаллургии, подбор реагентов, физико-химический анализ, теплотехнические расчеты, производство порошков цветных металлов, огнеупоров, спецсплавов"
+    },
+    "professor": {
+      "en": "PhD, associate professor, Chepushtanova Tatyana Aleksandrovna",
+      "kk": "PhD, ассоцияланған профессор, Чепуштанова Татьяна Александровна",
+      "ru": "PhD, ассоциированный профессор, Чепуштанова Татьяна Александровна"
+    },
+    "benefits": {
+      "en": [
+        "Optimization and reduction of production costs",
+        "Expansion of the market and competitive advantages",
+        "Commercialization of technologies and expansion of partnership ties"
+      ],
+      "kk": [
+        "Өндірісті оңтайландыру және шығындарды азайту",
+        "Нарықтық өлшемін кеңейту және бәсекелестік артықшылықтарын дамыту",
+        "Технологияларды коммерцияландыру және серіктес байланыстарды кеңейту"
+      ],
+      "ru": [
+        "Оптимизация и снижение затрат на производство",
+        "Расширение рынка и конкурентных преимуществ",
+        "Коммерциализация технологий и расширение партнёрских связей"
+      ]
+    },
+    "tasks": {
+      "en": [
+        "X-ray fluorescence analysis",
+        "Thermal decomposition",
+        "Production of rare, precious and noble metals",
+        "Atomic absorption analysis",
+        "Concentrate enrichment",
+        "Thermal analysis",
+        "Analysis of thermal conductivity",
+        "Modeling of roasting, melting, leaching, extraction processes"
+      ],
+      "kk": [
+        "Рентгенофлуоресценттік талдау",
+        "Термиялық ажырату",
+        "Құнды, түсті және асыл металдарды өндіру",
+        "Атом-абсорбциялық талдау",
+        "Концентраттарды байыту",
+        "Термиялық талдау",
+        "Жылу өткізгіштікті талдау",
+        "Күйдіру, қорыту, шаймалау, экстракция үдерістерін модельдеу"
+      ],
+      "ru": [
+        "Рентгенофлуоресцентный анализ",
+        "Термическое разложение",
+        "Производство редких, цветных и благородных металлов",
+        "Атомно-абсорбционный анализ",
+        "Обогащение концентратов",
+        "Термический анализ",
+        "Анализ теплопроводности",
+        "Моделирование процессов обжига, плавки, выщелачивания, экстракции"
+      ]
+    },
+    "solutions": {
+      "en": [
+        "Creation of innovative materials and technologies",
+        "Expansion of scientific and industrial capabilities",
+        "Improvement of ecological safety and stability of production"
+      ],
+      "kk": [
+        "Инновациялық материалдар мен технологияларды құрастыру",
+        "Ғылыми және өндірістік мүмкіндіктерін кеңейту",
+        "Өндірістің экологиялық қауіпсіздігін және тұрақтылығын жақсарту"
+      ],
+      "ru": [
+        "Создание инновационных материалов и технологий",
+        "Расширение научных и промышленных возможностей",
+        "Улучшение экологической безопасности и устойчивости производства"
+      ]
+    },
+    "imagePaths": [
+      "/images/lab-cover/lab6.jpg",
+      "/images/labs/lab6/IMG_9346.jpeg",
+      "/images/labs/lab6/IMG_9353.jpeg",
+      "/images/labs/lab6/IMG_9350.jpeg",
+      "/images/labs/lab6/IMG_9344.jpeg",
+      "/images/labs/lab6/IMG_9341.jpeg",
+      "/images/labs/lab6/IMG_9342.jpeg"
+    ],
+    "videoPaths": [
+      "https://www.youtube.com/watch?v=mOXq6_NkWKQ"
+    ],
+    "professorImagePath": "/images/team/chepushtanova-t-a.png"
+  },
+  "nanotechnology-and-nanomaterials": {
+    "title": {
+      "en": "Nanotechnology and nanomaterials laboratory",
+      "kk": "Нанотехнологиялар мен наноматериалдар лабораториясы",
+      "ru": "Лаборатория нанотехнологий и наноматериалов"
+    },
+    "description": {
+      "en": "Development and implementation of innovative technologies for processing mining and metallurgical waste to create nanomaterials, polymers and composites",
+      "kk": "Наноматериалдар, полимерлер және композиттарды жасау үшін тау-кен-металлургиялық шығындарды қайта өңдеу технологияларын әзірлеу және енгізу",
+      "ru": "Разработка и внедрение инновационных технологий переработки горно-металлургических отходов для создания наноматериалов, полимеров и композитов"
+    },
+    "professor": {
+      "en": "PhD, professor, Azat Seitkhan",
+      "kk": "PhD, профессор, Азат Сейтхан",
+      "ru": "PhD, профессор, Азат Сейтхан"
+    },
+    "benefits": {
+      "en": [
+        "Reduction of material costs and improvement of ecological situation",
+        "Expansion of production capacities",
+        "Commercialization of nanomaterials and analytical services"
+      ],
+      "kk": [
+        "Шикізатқа шығындарды азайту және экологияны жақсарту",
+        "Өндіріс қуаттың кеңейуі",
+        "Наноматериалдардың және талдау қызметтерін коммерцияландыру"
+      ],
+      "ru": [
+        "Снижение затрат на сырьё и улучшение экологии",
+        "Расширение производственных мощностей",
+        "Коммерциализация наноматериалов и аналитических услуг"
+      ]
+    },
+    "tasks": {
+      "en": [
+        "Development of nanomaterials from waste",
+        "Synthesis of semiconductors",
+        "Enhanced polymers and composites made from secondary resources",
+        "Ecological nanomaterials for water and air purification",
+        "Modification of materials using nanotechnology",
+        "Implementation of developments in production and solution of ecological problems"
+      ],
+      "kk": [
+        "Шығындардан наноматериалдарды өндіру",
+        "Шалаөткізгіштер синтезі",
+        "Қайталама қорлардан жасалған жақсартылған полимерлер мен композиттар",
+        "Су мен ауаны тазартатын экологиялық наноматериалдар",
+        "Материалдарды нанотехнологиялар арқылы жетілдіру",
+        "Әзірленімдерді өндіріске енгізу және экологиялық мәселелерді шешу"
+      ],
+      "ru": [
+        "Разработка наноматериалов из отходов",
+        "Синтез полупроводников",
+        "Улучшенные полимеры и композиты из вторичных ресурсов",
+        "Экологические наноматериалы для очистки воды и воздуха",
+        "Модификация материалов при помощи нанотехнологий",
+        "Внедрение разработок в производство и решение экологических задач"
+      ]
+    },
+    "solutions": {
+      "en": [
+        "Processing of waste into innovative materials",
+        "Creation of nanomaterials for ecological and application in industry",
+        "Economic efficiency and sustainable development",
+        "Commercialization of nanomaterials and analytical services"
+      ],
+      "kk": [
+        "Шығындардан инновациялық материалдар өндіру",
+        "Наноматериалдардарға қатысты экологиялық мәселелерді шешу және оларды өндірісте қолдану",
+        "Экономикалық тиімділік пен тұрақты даму",
+        "Наноматериалдар және талдау қызметтерін коммерцияландыру"
+      ],
+      "ru": [
+        "Переработка отходов в инновационные материалы",
+        "Создание наноматериалов для экологических и применение в промышленности",
+        "Экономическая эффективность и устойчивое развитие",
+        "Коммерциализация наноматериалов и аналитических услуг"
+      ]
+    },
+    "imagePaths": [
+      "/images/lab-cover/lab7.jpg",
+      "/images/labs/lab7/IMG_9331.jpeg",
+      "/images/labs/lab7/IMG_9325.jpeg",
+      "/images/labs/lab7/IMG_9326.jpeg",
+      "/images/labs/lab7/IMG_9333.jpeg",
+      "/images/labs/lab7/IMG_9323.jpeg",
+      "/images/labs/lab7/IMG_9322.jpeg",
+      "/images/labs/lab7/IMG_9335.jpeg",
+      "/images/labs/lab7/IMG_9338.jpeg",
+      "/images/labs/lab7/IMG_9307.jpeg",
+      "/images/labs/lab7/IMG_9315.jpeg",
+      "/images/labs/lab7/IMG_9328.jpeg",
+      "/images/labs/lab7/IMG_9210.jpeg",
+      "/images/labs/lab7/IMG_9211.jpeg"
+    ],
+    "videoPaths": [
+      "https://www.youtube.com/watch?v=DZV7OGRAXGQ"
+    ],
+    "professorImagePath": "/images/team/azat-s.png"
+  },
+  "ecological-monitoring": {
+    "title": {
+      "en": "Ecological monitoring laboratory",
+      "kk": "Экологиялық мониторинг лабораториясы",
+      "ru": "Лаборатория экологического мониторинга"
+    },
+    "description": {
+      "en": "Ecological monitoring and scientific research in the mining and metallurgical complex",
+      "kk": "Тау-кен-металлургиялық кешеніндегі экологиялық мониторинг және ғылыми-зерттеу жұмыстарын орындау",
+      "ru": "Экологический мониторинг и научно-исследовательские работы в горно-металлургическом комплексе"
+    },
+    "professor": {
+      "en": "DBA, Kezembayeva Gulmira Bulatovna",
+      "kk": "DBA, Кезембаева Гульмира Булатовна",
+      "ru": "DBA, Кезембаева Гульмира Булатовна"
+    },
+    "benefits": {
+      "en": [
+        "Optimization of payments for environmental impact",
+        "Effective methods of soil, water and waste cleaning",
+        "Accurate identification of pollutants and their sources"
+      ],
+      "kk": [
+        "Қоршаған ортаға әсер үшін төлемдерді оңтайландыру",
+        "Топырақ, су және өндіріс шығындарын тазарту тиімді әдістер",
+        "Ластану және оның көздерін дәл анықтау"
+      ],
+      "ru": [
+        "Оптимизация платежей за воздействие на окружающую среду",
+        "Эффективные методы очистки почв, вод и отходов",
+        "Точное выявление загрязнений и их источников"
+      ]
+    },
+    "tasks": {
+      "en": [
+        "Ecological monitoring of the atmosphere, water, soil and industrial waste",
+        "Industrial ecological control (IEC)",
+        "Development of technologies for cleaning polluted soils and wastewater",
+        "Utilization and recycling of industrial waste",
+        "Increase of qualification of experts in the field of ecology"
+      ],
+      "kk": [
+        "Атмосфера, су, топырақ және өндіріс шығындарының экологиялық мониторингі",
+        "Өндірістік экологиялық бақылау (ӨЭБ)",
+        "Ластанған топырақ мен ағын суды тазарту технологияларын әзірлеу",
+        "Өндіріс шығындарын қайта өңдеу және қайта қолдану",
+        "Экология саласындағы мамандардың біліктілігін арттыру"
+      ],
+      "ru": [
+        "Экологические мониторинг атмосферы, воды, почв и промышленных отходов",
+        "Производственный экологический контроль (ПЭК)",
+        "Разработка технологий очистки загрязнённых почв и сточных вод",
+        "Утилизация и переработка промышленных отходов",
+        "Повышение квалификации специалистов в области экологии"
+      ]
+    },
+    "solutions": {
+      "en": [
+        "Comprehensive and multi-profile approach",
+        "High accuracy of analysis and reliability of data",
+        "Modern technologies in ecological monitoring",
+        "Optimization of environmental protection costs of enterprises"
+      ],
+      "kk": [
+        "Күрделі және көппрофильді қолданбалы тәсілдеме",
+        "Анализдың жоғары дәлдігі және сенімді деректер",
+        "Экологиялық мониторингта қолданылатын заманауи технологиялар",
+        "Өндірістердің табиғат қорғауына шығындарды оңтайландыру"
+      ],
+      "ru": [
+        "Комплексный и многопрофильный подход",
+        "Высокая точность анализа и надёжность данных",
+        "Современные технологии в экологическом мониторинге",
+        "Оптимизация природоохранных расходов предприятий"
+      ]
+    },
+    "imagePaths": [
+      "/images/lab-cover/lab8.jpg",
+      "/images/labs/lab8/5460970631496593607.jpg",
+      "/images/labs/lab8/5460970631496593606.jpg",
+      "/images/labs/lab8/IMG_9197.jpeg",
+      "/images/labs/lab8/IMG_9204.jpeg",
+      "/images/labs/lab8/IMG_9202.jpeg",
+      "/images/labs/lab8/5460970631496593605.jpg"
+    ],
+    "videoPaths": [
+      "https://www.youtube.com/watch?v=mBv2LL16L5o"
+    ],
+    "professorImagePath": "/images/team/kezembayeva-g-b.png"
+  }
+}
