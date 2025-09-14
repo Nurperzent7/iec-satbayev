@@ -48,7 +48,7 @@ export default async function NewsPostPage({ params }: { params: Promise<{ lang:
   return (
     <>
       <div className="mt-12 flex justify-center flex-col items-center">
-        <BlogMeta data={data} />
+        <BlogMeta data={data} hl={lang} />
         <article className="flex flex-col z-30 md:w-[700px] w-full px-8 md:px-0">
           <div className="pt-4 pb-8">
             <MDXRemote

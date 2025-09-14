@@ -36,11 +36,13 @@ export const metadata: Metadata = {
 const navItemCn = "py-2 cursor-pointer border-b-2 border-transparent hover:border-b-2 " +
   "hover:border-blue-600 transition-colors text-center text-sm"
 
-function NavItem({ href, children }: { href: string; children: React.ReactNode }) {
+function NavItem({ href, children, newTab }: { href: string; children: React.ReactNode; newTab?: boolean }) {
   return (
     <Link
       href={href}
       className={navItemCn}
+      target={newTab ? "_blank" : undefined}
+      rel={newTab ? "noopener noreferrer" : undefined}
     >
       {children}
     </Link>
@@ -116,8 +118,8 @@ export default async function RootLayout({
             <NavItem href={`/${language}/contact`}>{strings.navbarItemContacts ?? 'Байланыс'}</NavItem>
             <NavItem href={`/${language}/partners`}>{strings.navbarItemPartners ?? 'Серіктестер'}</NavItem>
             <NavItem href={`/${language}/gallery`}>{strings.navbarItemGallery ?? 'Галерея'}</NavItem>
-            <NavItem href="https://www.youtube.com"><Image src={Youtube} alt="Youtube" width={24} height={24} /></NavItem>
-            <NavItem href="https://www.instagram.com"><Image src={Instagram} alt="Instagram" width={24} height={24} /></NavItem>
+            <NavItem href="https://www.youtube.com/channel/UCMIPNUoyzgR0uEWcIsgJu8g" newTab><Image src={Youtube} alt="Youtube" width={24} height={24} /></NavItem>
+            <NavItem href="https://www.instagram.com/engineering_center_su" newTab><Image src={Instagram} alt="Instagram" width={24} height={24} /></NavItem>
             <Suspense fallback={<div>Loading...</div>}>
               <LanguageSwitcher />
             </Suspense>

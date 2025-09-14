@@ -19,5 +19,17 @@
         "slug": "tau-ken-bagytynda-3-zauyt-ashylady",
         "contentMdxPath": "news/kk/2025-09-09.mdx",
         "imagePath": "/images/news/2025-09-09.png"
+    },
+    {
+        "title": "Приказ № 867-ОД от 29.07.2025 г.",
+        "date": "2025-07-29",
+        "slug": "prikaz-867-od-ot-29-07-2025",
+        "contentMdxPath": "news/ru/2025-07-29.mdx"
+    },
+    {
+        "title": "Приказ № 1017-ОД от 28.08.2025 г.",
+        "date": "2025-08-28",
+        "slug": "prikaz-1017-od-ot-28-08-2025",
+        "contentMdxPath": "news/ru/2025-08-28.mdx"
     }
 ]
