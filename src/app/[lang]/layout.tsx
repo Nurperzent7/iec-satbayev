@@ -65,12 +65,12 @@ export default async function RootLayout({
 
   return (
     <div
-      className={`${geistSans.variable} ${geistMono.variable} antialiased bg-background`}
+      className={`${geistSans.variable} ${geistMono.variable} antialiased bg-background min-h-screen flex flex-col`}
     >
-      <header className="border-b sticky top-0 z-50 bg-white">
+      <header className="border-b sticky top-0 z-50 bg-white flex-shrink-0">
         <nav className="container mx-auto flex items-center justify-between px-4 lg:w-3/4 py-2">
           <Link href={`/${language}`} className="flex items-center gap-4">
-            <Image src="/logo.png" alt="Logo" width={100} height={100} />
+            <Image src="/logo.jpg" alt="Logo" width={100} height={100} />
           </Link>
 
           {/* Mobile menu button */}
@@ -124,8 +124,8 @@ export default async function RootLayout({
           </div>
         </nav>
       </header>
-      <main>{children}</main>
-      <footer className="border-t bg-blue-600 text-white">
+      <main className="flex-grow">{children}</main>
+      <footer className="border-t bg-blue-600 text-white bottom-0 w-full flex-shrink-0">
         <div className="text-center w-full px-auto bg-[#125cc9] py-6">
           <div className="mx-auto px-4 flex flex-col md:flex-row gap-8 md:gap-16 justify-center">
             <div className="mb-6 md:mb-0">

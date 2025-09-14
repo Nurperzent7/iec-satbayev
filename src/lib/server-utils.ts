@@ -36,7 +36,7 @@ export const getLabsData = async (hl: string): Promise<LabsData> => {
     const data = JSON.parse(fileContents);
     return Object.fromEntries(Object.entries(data).map(([labId, lab]) => {
       const langLab = Object.fromEntries(Object.entries(lab as object).map(([key, val]) => {
-        if (typeof val === 'object' && new Set(Object.keys(val)).isSubsetOf(new Set(LANGUAGES))) {
+        if (typeof val === 'object' && Object.keys(val).every(key => LANGUAGES.includes(key))) {
           return [key, val[hl]];
         }
         return [key, val];
@@ -102,10 +102,10 @@ export const getPartnersData = async (hl: string): Promise<PartnersData> => {
 
 export const getNewsData = async (hl: string): Promise<NewsEntry[]> => {
   const data = await loadJsonData<NewsEntry[]>(hl, 'news.json');
-  return data.map((item) => ({
+  return data.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime()).map((item) => ({
     ...item,
     date: formatUTCDate(item.date, hl),
-  })).sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
+  }));
 };
 
 export const getPublicationsData = async (): Promise<Publication[]> => {

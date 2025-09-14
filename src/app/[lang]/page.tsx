@@ -40,6 +40,11 @@ export default async function Home(
     },
     {
       type: 'video',
+      videoUrl: 'https://youtu.be/kigQAakifdg',
+      title: 'Engineering Centre Demo Video (YouTube)'
+    },
+    {
+      type: 'video',
       directVideoUrl: '/gallery/IMG_4574.mp4', // Example direct video file
       title: 'Engineering Centre Demo Video'
     },

@@ -4,6 +4,7 @@ import { MDXRemote } from "next-mdx-remote/rsc";
 import BlogMeta from "@/components/news/blog-meta";
 import MDHeading from "@/components/news/md-heading";
 import { getNewsEntry } from "@/lib/news/utils";
+import { redirect } from "next/navigation";
 
 export const generateMetadata = async (
   props: {
@@ -11,13 +12,21 @@ export const generateMetadata = async (
   }
 ): Promise<Metadata> => {
   const params = await props.params;
-  const { data } = await getNewsEntry(params.lang, params.slug);
+  const entry = await getNewsEntry(params.lang, params.slug);
+  if (!entry) {
+    return {
+      title: "News",
+      description: "News",
+    };
+  }
+  const { data } = entry;
   return {
     title: data.title,
     description: data.description,
     icons: ["https://satbayev.university/favicon.ico"],
     openGraph: {
-
+      title: data.title,
+      description: data.description,
       type: "article",
       publishedTime: data.date,
     },
@@ -28,10 +37,14 @@ export const generateMetadata = async (
   };
 };
 
-export default async function BlogPostPage({ params }: { params: Promise<{ lang: string, slug: string }> }) {
+export default async function NewsPostPage({ params }: { params: Promise<{ lang: string, slug: string }> }) {
   // Get all labs data
   const { lang, slug }: { lang: string, slug: string } = await params;
-  const { data, content } = await getNewsEntry(lang, slug);
+  const entry = await getNewsEntry(lang, slug);
+  if (!entry) {
+    redirect(`/${lang}/news`);
+  }
+  const { data, content } = entry;
   return (
     <>
       <div className="mt-12 flex justify-center flex-col items-center">

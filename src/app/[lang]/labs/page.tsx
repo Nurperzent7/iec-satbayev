@@ -1,20 +1,20 @@
 import Link from 'next/link'
-import { getLabsData } from '@/lib/server-utils'
+import { getLabsData, getStrings } from '@/lib/server-utils'
 import Image from 'next/image';
 
 export default async function LabsPage({ params }: { params: Promise<{ lang: string }> }) {
   // Get all labs data
   const { lang }: { lang: string } = await params;
   const labsData = await getLabsData(lang)
+  const strings = await getStrings(lang)
 
   return (
     <div className="container mx-auto py-12 px-4">
-      <h1 className="text-3xl font-bold mb-8 text-center">Our Research Laboratories</h1>
+      <h1 className="text-3xl font-bold mb-8 text-center">{strings.labPageHeading ?? "Зерттеу лабораториялар"}</h1>
 
       <div className="max-w-3xl mx-auto mb-12 text-center">
         <p className="text-lg text-gray-700">
-          The Satbayev Engineering Centre houses state-of-the-art laboratories for cutting-edge research
-          and education in various engineering disciplines. Explore our labs below.
+          {strings.labPageDescription ?? "Сәтбаев Инжиниринг Орталығы әр түрлі инжиниринг салаларындағы ғылыми зерттеу және білім беру үшін өнімділігі жоғары лабораторияларға ие. Біздің лабораторияларымызды осы бетте қараңыз."}
         </p>
       </div>
 

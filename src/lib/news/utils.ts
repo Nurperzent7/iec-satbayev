@@ -5,8 +5,11 @@ import { getNewsData } from "../server-utils";
 import { MatterAndContent } from "./types";
 import path from "path";
 
-export const getNewsEntry = async (hl: string, slug: string): Promise<MatterAndContent> => {
+export const getNewsEntry = async (hl: string, slug: string): Promise<MatterAndContent | null> => {
   const filePath = (await getNewsData(hl)).find((item) => item.slug === slug)?.contentMdxPath;
+  if (!filePath) {
+    return null;
+  }
   const fullPath = path.join(process.cwd(), 'public', 'static-content', filePath!);
   const content = fs.readFileSync(fullPath, "utf8");
 

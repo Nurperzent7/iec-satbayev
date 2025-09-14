@@ -85,7 +85,7 @@
       "We form a bridge between the university and industry, opening opportunities for innovations, experimental developments and technological implementation."
     ],
     "kk": [
-      "Сәтбаев Университеті Инжиниринг Центрі - бұл қолданбалы зерттеулер және жоғары технологиялық платформа. Платформа тау-кен ісі, металлургия, нанотехнологиялар және экологиялық монитоиринг салаларындағы 8 мамандырылған лабораторияларды біріктіреді.",
+      "Satbayev University Инжиниринг Орталығы - бұл қолданбалы зерттеулер және жоғары технологиялық платформа. Платформа тау-кен ісі, металлургия, нанотехнологиялар және экологиялық монитоиринг салаларындағы 8 мамандырылған лабораторияларды біріктіреді.",
       "Орталық ғылыми, білім беру және өндірісті біріктіру мақсатында құрылған. Орталық студенттер, оқытушылар мен өндірістік серіктестерді бірегей құрал-жабдықтар, сарапшы көмегімен қамтамасыз етеді.",
       "Біз инновациялар, істәжірибелік зерттеулер және технологиялық жаңалықтардың қолданылуына жол ашып, университет пен өндірістің арасындағы байланысты қалыптастырамыз."
     ],
@@ -201,6 +201,31 @@
       "Электронная приёмная комиссия",
       "Образовательный портал"
     ]
+  },
+  "labPageHeading": {
+    "en": "Our Research Laboratories",
+    "kk": "Біздің зерттеу лабораторияларымыз",
+    "ru": "Наши лаборатории"
+  },
+  "labPageDescription": {
+    "en": "The Satbayev University Engineering Centre houses state-of-the-art laboratories for cutting-edge research and education in various engineering disciplines. Explore our labs below.",
+    "kk": "Satbayev University Инжиниринг Орталығы әр түрлі инжиниринг салаларындағы ғылыми зерттеу және білім беру үшін өнімділігі жоғары лабораторияларға ие. Біздің лабораторияларымызды осы бетте қараңыз.",
+    "ru": "В Инжиниринговый Центр Satbayev University входят современные лаборатории для передовых исследований и образования в различных инженерных дисциплинах. На этой странице представлены наши лаборатории."
+  },
+  "contactPageHeading": {
+    "en": "Contact us",
+    "kk": "Байланыс",
+    "ru": "Контакты"
+  },
+  "contactPageDescription": {
+    "en": "Get in touch with the Engineering Centre. Here you can find the contact details and location information.",
+    "kk": "Инжиниринг Орталығына хабарласыңыз.",
+    "ru": "Контакты Инжинирингого Центра. Здесь вы можете найти контактные данные и адрес."
+  },
+  "contactPageContactInformationHeading": {
+    "en": "Contact information",
+    "kk": "Байланыс ақпараты",
+    "ru": "Контактные данные"
   },
   "labPageProfessorHeading": {
     "en": "Scientific supervisor",
